@@ -1,0 +1,76 @@
+{
+  "title": "Master Quiz 2026",
+  "total_sections": 3,
+  "quizzes": [
+    {
+      "section": "Emerging Tech & AI",
+      "type": "General Awareness",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does 'LLM' stand for in the context of Artificial Intelligence?",
+          "options": [
+            "Low Level Model",
+            "Large Language Model",
+            "Logical Learning Machine",
+            "Linked Lexical Matrix"
+          ],
+          "answer": "Large Language Model",
+          "explanation": "LLMs are AI systems like Gemini or GPT that are trained on massive amounts of text data."
+        },
+        {
+          "id": 2,
+          "question": "Which Indian initiative aims to provide AI infrastructure as a public good, similar to UPI?",
+          "options": ["AI-OS", "Bhashini", "Digital India AI", "BharatGPT"],
+          "answer": "AI-OS",
+          "explanation": "The AI-OS initiative proposed in the 2026 Economic Survey treats AI infrastructure as a public utility."
+        }
+      ]
+    },
+    {
+      "section": "SSC CGL: General Intelligence",
+      "type": "Logic & Puzzles",
+      "questions": [
+        {
+          "id": 3,
+          "question": "In a family, A is the brother of B. C is the father of A. D is the brother of E. E is the daughter of B. Who is the uncle of D?",
+          "options": ["A", "B", "C", "E"],
+          "answer": "A",
+          "explanation": "Since A is the brother of B, and D is the child of B, A is the paternal/maternal uncle of D."
+        },
+        {
+          "id": 4,
+          "question": "Select the related number from the given alternatives: 12 : 144 :: 15 : ?",
+          "options": ["200", "225", "250", "175"],
+          "answer": "225",
+          "explanation": "The pattern is n : n². 12 squared is 144, so 15 squared is 225."
+        }
+      ]
+    },
+    {
+      "section": "Mobile App Development",
+      "type": "Tech Trivia",
+      "questions": [
+        {
+          "id": 5,
+          "question": "Which file in an Android project contains essential information about the app's package and components?",
+          "options": [
+            "build.gradle",
+            "AndroidManifest.xml",
+            "MainActivity.java",
+            "strings.xml"
+          ],
+          "answer": "AndroidManifest.xml",
+          "explanation": "The Manifest file is required by the Android system to run any app component."
+        },
+        {
+          "id": 6,
+          "question": "Which of these is a cross-platform mobile framework developed by Google?",
+          "options": ["React Native", "Flutter", "SwiftUI", "Xamarin"],
+          "answer": "Flutter",
+          "explanation": "Flutter is Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase."
+        }
+      ]
+    }
+  ]
+}

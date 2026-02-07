@@ -1,0 +1,38 @@
+[
+  {
+    "name": "python-master-quiz-2026",
+    "title": "Master Quiz 2026 Python Edition",
+    "sections": 5,
+    "level": "normal"
+  },
+  {
+    "name": "java-master-quiz-2026",
+    "title": "Master Quiz 2026 Java Edition",
+    "sections": 5,
+    "level": "normal"
+  },
+  {
+    "name": "golang-master-quiz-2026",
+    "title": "Master Quiz 2026 Go Lang Edition",
+    "sections": 5,
+    "level": "normal"
+  },
+  {
+    "name": "mysql-master-quiz-2026",
+    "title": "Master Quiz 2026 MySQL Edition",
+    "sections": 5,
+    "level": "normal"
+  },
+  {
+    "name": "master-quiz-2026",
+    "title": "Master Quiz 2026",
+    "sections": 3,
+    "level": "easy"
+  },
+  {
+    "name": "rbi-office-att-2026",
+    "title": "RBI Office Attendant 2026",
+    "sections": 4,
+    "level": "easy"
+  }
+]

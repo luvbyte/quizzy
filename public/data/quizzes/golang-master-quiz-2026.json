@@ -1,0 +1,241 @@
+{
+  "title": "Master Quiz 2026 - Go Edition",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "Go Basics",
+      "type": "Programming Fundamentals",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which keyword is used to declare a variable in Go?",
+          "options": ["var", "let", "define", "auto"],
+          "answer": "var",
+          "explanation": "The var keyword declares variables in Go."
+        },
+        {
+          "id": 2,
+          "question": "What is the file extension for Go source files?",
+          "options": [".golang", ".go", ".g", ".code"],
+          "answer": ".go",
+          "explanation": "Go programs are saved with the .go extension."
+        },
+        {
+          "id": 3,
+          "question": "Which function is the entry point of a Go program?",
+          "options": ["start()", "run()", "main()", "init()"],
+          "answer": "main()",
+          "explanation": "Execution starts in the main() function."
+        },
+        {
+          "id": 4,
+          "question": "Which symbol is used for short variable declaration?",
+          "options": ["=", ":=", "->", "::"],
+          "answer": ":=",
+          "explanation": "The := operator declares and initializes variables."
+        },
+        {
+          "id": 5,
+          "question": "Which keyword is used to import packages?",
+          "options": ["include", "import", "use", "require"],
+          "answer": "import",
+          "explanation": "import loads packages into a Go file."
+        }
+      ]
+    },
+    {
+      "section": "Go Intermediate",
+      "type": "Core Concepts",
+      "questions": [
+        {
+          "id": 6,
+          "question": "Which data structure in Go maps keys to values?",
+          "options": ["slice", "array", "map", "struct"],
+          "answer": "map",
+          "explanation": "Maps store key–value pairs."
+        },
+        {
+          "id": 7,
+          "question": "What does the make() function do?",
+          "options": [
+            "Allocates and initializes slices, maps, or channels",
+            "Creates structs",
+            "Starts goroutines",
+            "Imports packages"
+          ],
+          "answer": "Allocates and initializes slices, maps, or channels",
+          "explanation": "make() prepares slices, maps, and channels for use."
+        },
+        {
+          "id": 8,
+          "question": "Which loop construct exists in Go?",
+          "options": ["while", "foreach", "loop", "for"],
+          "answer": "for",
+          "explanation": "Go only has the for loop, which can act as while or foreach."
+        },
+        {
+          "id": 9,
+          "question": "Which keyword defers execution of a function until the surrounding function returns?",
+          "options": ["delay", "wait", "defer", "async"],
+          "answer": "defer",
+          "explanation": "defer postpones execution until the function exits."
+        },
+        {
+          "id": 10,
+          "question": "Which built-in type is used for strings in Go?",
+          "options": ["text", "char[]", "string", "str"],
+          "answer": "string",
+          "explanation": "Go uses the string type for text."
+        }
+      ]
+    },
+    {
+      "section": "Go Advanced",
+      "type": "Advanced Programming",
+      "questions": [
+        {
+          "id": 11,
+          "question": "What is a goroutine?",
+          "options": [
+            "A thread pool",
+            "A lightweight concurrent function",
+            "An OS process",
+            "A scheduler"
+          ],
+          "answer": "A lightweight concurrent function",
+          "explanation": "Goroutines are lightweight units of execution managed by Go."
+        },
+        {
+          "id": 12,
+          "question": "Which keyword is used to send a value into a channel?",
+          "options": ["<-", "->", "::", "=>"],
+          "answer": "<-",
+          "explanation": "The <- operator sends or receives data from channels."
+        },
+        {
+          "id": 13,
+          "question": "Which statement waits for multiple channel operations?",
+          "options": ["switch", "select", "await", "sync"],
+          "answer": "select",
+          "explanation": "select waits on multiple channel communications."
+        },
+        {
+          "id": 14,
+          "question": "Which interface must be implemented to handle HTTP requests?",
+          "options": [
+            "http.Server",
+            "http.Handler",
+            "net.Listener",
+            "http.Router"
+          ],
+          "answer": "http.Handler",
+          "explanation": "http.Handler defines how HTTP requests are processed."
+        },
+        {
+          "id": 15,
+          "question": "What does the context package mainly help with?",
+          "options": [
+            "Logging",
+            "Timeouts and cancellation",
+            "File handling",
+            "Serialization"
+          ],
+          "answer": "Timeouts and cancellation",
+          "explanation": "context manages deadlines, cancellation, and request-scoped values."
+        }
+      ]
+    },
+    {
+      "section": "Go Structs & Interfaces",
+      "type": "Object-Oriented Concepts",
+      "questions": [
+        {
+          "id": 16,
+          "question": "What is a struct in Go?",
+          "options": [
+            "A package",
+            "A user-defined type grouping fields",
+            "A function pointer",
+            "A module"
+          ],
+          "answer": "A user-defined type grouping fields",
+          "explanation": "Structs combine related fields into one type."
+        },
+        {
+          "id": 17,
+          "question": "How does Go achieve polymorphism?",
+          "options": ["Inheritance", "Interfaces", "Overloading", "Templates"],
+          "answer": "Interfaces",
+          "explanation": "Go uses interfaces instead of classical inheritance."
+        },
+        {
+          "id": 18,
+          "question": "Which receiver type allows modifying the struct?",
+          "options": [
+            "Value receiver",
+            "Pointer receiver",
+            "Static receiver",
+            "Interface receiver"
+          ],
+          "answer": "Pointer receiver",
+          "explanation": "Pointer receivers can change the struct's fields."
+        },
+        {
+          "id": 19,
+          "question": "Which keyword makes a struct field exported?",
+          "options": ["public", "export", "Capitalized name", "open"],
+          "answer": "Capitalized name",
+          "explanation": "Fields starting with capital letters are exported."
+        },
+        {
+          "id": 20,
+          "question": "Which feature allows embedding one struct inside another?",
+          "options": ["Inheritance", "Composition", "Embedding", "Extends"],
+          "answer": "Embedding",
+          "explanation": "Embedding promotes fields and methods into the outer struct."
+        }
+      ]
+    },
+    {
+      "section": "Go Modules & Tooling",
+      "type": "Ecosystem & Tools",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Which command initializes a new Go module?",
+          "options": ["go start", "go init", "go mod init", "go new"],
+          "answer": "go mod init",
+          "explanation": "go mod init creates a new module."
+        },
+        {
+          "id": 22,
+          "question": "Which command formats Go source code?",
+          "options": ["go tidy", "go vet", "go fmt", "go clean"],
+          "answer": "go fmt",
+          "explanation": "go fmt formats Go code according to standards."
+        },
+        {
+          "id": 23,
+          "question": "Which command downloads module dependencies?",
+          "options": ["go pull", "go fetch", "go mod tidy", "go install"],
+          "answer": "go mod tidy",
+          "explanation": "go mod tidy adds missing and removes unused modules."
+        },
+        {
+          "id": 24,
+          "question": "Which tool checks code for suspicious constructs?",
+          "options": ["go vet", "go run", "go list", "go env"],
+          "answer": "go vet",
+          "explanation": "go vet performs static analysis."
+        },
+        {
+          "id": 25,
+          "question": "Which file stores module name and dependencies?",
+          "options": ["go.sum", "module.go", "go.mod", "deps.txt"],
+          "answer": "go.mod",
+          "explanation": "go.mod defines module path and requirements."
+        }
+      ]
+    }
+  ]
+}

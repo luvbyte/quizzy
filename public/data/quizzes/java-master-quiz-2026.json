@@ -1,0 +1,236 @@
+{
+  "title": "Master Quiz 2026 - Java Edition",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "Java Basics",
+      "type": "Programming Fundamentals",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which method is the entry point of a Java program?",
+          "options": ["start()", "main()", "run()", "init()"],
+          "answer": "main()",
+          "explanation": "Execution of a Java program begins from the main() method."
+        },
+        {
+          "id": 2,
+          "question": "Which keyword is used to declare a constant in Java?",
+          "options": ["static", "const", "final", "immutable"],
+          "answer": "final",
+          "explanation": "The final keyword prevents a variable from being modified."
+        },
+        {
+          "id": 3,
+          "question": "Which data type is used to store true or false values?",
+          "options": ["int", "char", "boolean", "String"],
+          "answer": "boolean",
+          "explanation": "boolean stores true/false values."
+        },
+        {
+          "id": 4,
+          "question": "Which symbol is used to end a Java statement?",
+          "options": [".", ";", ":", ","],
+          "answer": ";",
+          "explanation": "Each statement in Java ends with a semicolon."
+        },
+        {
+          "id": 5,
+          "question": "Which keyword is used to create an object?",
+          "options": ["make", "object", "new", "create"],
+          "answer": "new",
+          "explanation": "Objects are created using the new keyword."
+        }
+      ]
+    },
+    {
+      "section": "Java Intermediate",
+      "type": "Core Concepts",
+      "questions": [
+        {
+          "id": 6,
+          "question": "Which access modifier makes a member visible only within the same class?",
+          "options": ["public", "protected", "private", "default"],
+          "answer": "private",
+          "explanation": "private restricts access to within the class."
+        },
+        {
+          "id": 7,
+          "question": "Which loop is guaranteed to execute at least once?",
+          "options": ["for", "while", "do-while", "foreach"],
+          "answer": "do-while",
+          "explanation": "do-while executes the body before checking the condition."
+        },
+        {
+          "id": 8,
+          "question": "Which keyword is used to inherit a class?",
+          "options": ["implements", "inherits", "extends", "super"],
+          "answer": "extends",
+          "explanation": "extends allows one class to inherit another."
+        },
+        {
+          "id": 9,
+          "question": "Which collection does NOT allow duplicate values?",
+          "options": ["List", "Set", "Map", "ArrayList"],
+          "answer": "Set",
+          "explanation": "Set enforces uniqueness of elements."
+        },
+        {
+          "id": 10,
+          "question": "Which package is automatically imported in every Java program?",
+          "options": ["java.io", "java.util", "java.lang", "java.net"],
+          "answer": "java.lang",
+          "explanation": "java.lang is imported by default."
+        }
+      ]
+    },
+    {
+      "section": "Java Advanced",
+      "type": "Advanced Programming",
+      "questions": [
+        {
+          "id": 11,
+          "question": "Which concept allows multiple methods with the same name but different parameters?",
+          "options": [
+            "Overriding",
+            "Overloading",
+            "Inheritance",
+            "Encapsulation"
+          ],
+          "answer": "Overloading",
+          "explanation": "Method overloading depends on parameter lists."
+        },
+        {
+          "id": 12,
+          "question": "Which keyword prevents a class from being inherited?",
+          "options": ["static", "const", "final", "sealed"],
+          "answer": "final",
+          "explanation": "final classes cannot be extended."
+        },
+        {
+          "id": 13,
+          "question": "Which interface is used to run code in a separate thread?",
+          "options": ["Callable", "Executor", "Runnable", "Threadable"],
+          "answer": "Runnable",
+          "explanation": "Runnable is commonly implemented to create threads."
+        },
+        {
+          "id": 14,
+          "question": "What is the parent class of all Java classes?",
+          "options": ["Base", "Root", "Object", "System"],
+          "answer": "Object",
+          "explanation": "All classes extend Object directly or indirectly."
+        },
+        {
+          "id": 15,
+          "question": "Which exception is checked at compile time?",
+          "options": [
+            "NullPointerException",
+            "ArithmeticException",
+            "IOException",
+            "RuntimeException"
+          ],
+          "answer": "IOException",
+          "explanation": "Checked exceptions must be handled or declared."
+        }
+      ]
+    },
+    {
+      "section": "Java OOP",
+      "type": "Object-Oriented Programming",
+      "questions": [
+        {
+          "id": 16,
+          "question": "Which OOP principle hides internal details and exposes only necessary parts?",
+          "options": [
+            "Inheritance",
+            "Abstraction",
+            "Polymorphism",
+            "Encapsulation"
+          ],
+          "answer": "Encapsulation",
+          "explanation": "Encapsulation bundles data and methods and restricts access."
+        },
+        {
+          "id": 17,
+          "question": "What is method overriding?",
+          "options": [
+            "Same method name in same class",
+            "Subclass redefining parent method",
+            "Calling constructor",
+            "Using interfaces"
+          ],
+          "answer": "Subclass redefining parent method",
+          "explanation": "Overriding provides a specific implementation in a subclass."
+        },
+        {
+          "id": 18,
+          "question": "Which keyword is used to call the parent class constructor?",
+          "options": ["this", "parent", "base", "super"],
+          "answer": "super",
+          "explanation": "super() invokes the superclass constructor."
+        },
+        {
+          "id": 19,
+          "question": "Which type of polymorphism occurs at compile time?",
+          "options": [
+            "Runtime",
+            "Dynamic",
+            "Method overloading",
+            "Method overriding"
+          ],
+          "answer": "Method overloading",
+          "explanation": "Compile-time polymorphism is achieved via overloading."
+        },
+        {
+          "id": 20,
+          "question": "Which keyword is used to prevent method overriding?",
+          "options": ["final", "static", "private", "sealed"],
+          "answer": "final",
+          "explanation": "final methods cannot be overridden."
+        }
+      ]
+    },
+    {
+      "section": "Java Collections & Libraries",
+      "type": "Ecosystem & Tools",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Which class allows dynamic resizing of arrays?",
+          "options": ["Array", "Vector", "ArrayList", "LinkedList"],
+          "answer": "ArrayList",
+          "explanation": "ArrayList grows dynamically."
+        },
+        {
+          "id": 22,
+          "question": "Which Map implementation maintains insertion order?",
+          "options": ["HashMap", "TreeMap", "LinkedHashMap", "Hashtable"],
+          "answer": "LinkedHashMap",
+          "explanation": "LinkedHashMap preserves insertion order."
+        },
+        {
+          "id": 23,
+          "question": "Which library is commonly used for building REST APIs in Java?",
+          "options": ["Hibernate", "JUnit", "Spring Boot", "Log4j"],
+          "answer": "Spring Boot",
+          "explanation": "Spring Boot simplifies REST service development."
+        },
+        {
+          "id": 24,
+          "question": "Which tool is used for unit testing in Java?",
+          "options": ["Mockito", "JUnit", "Gradle", "Maven"],
+          "answer": "JUnit",
+          "explanation": "JUnit is a popular testing framework."
+        },
+        {
+          "id": 25,
+          "question": "Which build tool uses pom.xml?",
+          "options": ["Gradle", "Ant", "Maven", "SBT"],
+          "answer": "Maven",
+          "explanation": "Maven projects are configured using pom.xml."
+        }
+      ]
+    }
+  ]
+}

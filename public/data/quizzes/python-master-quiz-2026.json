@@ -1,0 +1,241 @@
+{
+  "title": "Master Quiz 2026 - Python Edition",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "Python Basics",
+      "type": "Programming Fundamentals",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which keyword is used to define a function in Python?",
+          "options": ["func", "define", "def", "function"],
+          "answer": "def",
+          "explanation": "The 'def' keyword is used to declare a function in Python."
+        },
+        {
+          "id": 2,
+          "question": "What is the output of: print(type(5))?",
+          "options": [
+            "<class 'int'>",
+            "<class 'float'>",
+            "<class 'number'>",
+            "<class 'str'>"
+          ],
+          "answer": "<class 'int'>",
+          "explanation": "The integer 5 belongs to the int class."
+        },
+        {
+          "id": 3,
+          "question": "Which of these is a mutable data type?",
+          "options": ["tuple", "str", "list", "int"],
+          "answer": "list",
+          "explanation": "Lists can be modified after creation, unlike tuples and strings."
+        },
+        {
+          "id": 4,
+          "question": "Which symbol is used for comments in Python?",
+          "options": ["//", "#", "/* */", "--"],
+          "answer": "#",
+          "explanation": "The # symbol is used to write single-line comments."
+        },
+        {
+          "id": 5,
+          "question": "How do you take user input in Python?",
+          "options": ["input()", "scan()", "read()", "get()"],
+          "answer": "input()",
+          "explanation": "The input() function reads user input from standard input."
+        }
+      ]
+    },
+    {
+      "section": "Python Intermediate",
+      "type": "Core Concepts",
+      "questions": [
+        {
+          "id": 6,
+          "question": "Which keyword is used to handle exceptions?",
+          "options": ["catch", "try", "error", "handle"],
+          "answer": "try",
+          "explanation": "Exceptions are handled using try and except blocks."
+        },
+        {
+          "id": 7,
+          "question": "What does the 'len()' function do?",
+          "options": [
+            "Counts elements",
+            "Deletes items",
+            "Sorts data",
+            "Finds type"
+          ],
+          "answer": "Counts elements",
+          "explanation": "len() returns the number of items in an object."
+        },
+        {
+          "id": 8,
+          "question": "Which module is used to generate random numbers?",
+          "options": ["math", "random", "numbers", "os"],
+          "answer": "random",
+          "explanation": "The random module supports random number generation."
+        },
+        {
+          "id": 9,
+          "question": "What is a lambda function?",
+          "options": [
+            "Named function",
+            "Recursive function",
+            "Anonymous function",
+            "Class method"
+          ],
+          "answer": "Anonymous function",
+          "explanation": "Lambda functions are small anonymous one-line functions."
+        },
+        {
+          "id": 10,
+          "question": "Which keyword is used to import a module?",
+          "options": ["using", "include", "import", "require"],
+          "answer": "import",
+          "explanation": "The import keyword loads a module into the program."
+        }
+      ]
+    },
+    {
+      "section": "Python Advance",
+      "type": "Advanced Programming",
+      "questions": [
+        {
+          "id": 11,
+          "question": "What is a decorator in Python?",
+          "options": ["Loop", "Function modifier", "Class", "Package"],
+          "answer": "Function modifier",
+          "explanation": "Decorators modify the behavior of functions without changing their code."
+        },
+        {
+          "id": 12,
+          "question": "Which keyword is used for generators?",
+          "options": ["return", "yield", "pass", "break"],
+          "answer": "yield",
+          "explanation": "yield produces values one at a time in generator functions."
+        },
+        {
+          "id": 13,
+          "question": "What does __init__ represent?",
+          "options": ["Destructor", "Constructor", "Variable", "Loop"],
+          "answer": "Constructor",
+          "explanation": "__init__ initializes new objects of a class."
+        },
+        {
+          "id": 14,
+          "question": "Which module supports multi-threading?",
+          "options": ["asyncio", "threading", "multiprocessing", "time"],
+          "answer": "threading",
+          "explanation": "The threading module enables concurrent execution."
+        },
+        {
+          "id": 15,
+          "question": "What is list comprehension used for?",
+          "options": [
+            "Creating lists concisely",
+            "Sorting",
+            "Deleting",
+            "Debugging"
+          ],
+          "answer": "Creating lists concisely",
+          "explanation": "List comprehensions generate lists using compact syntax."
+        }
+      ]
+    },
+    {
+      "section": "Python OOP",
+      "type": "Object Oriented Programming",
+      "questions": [
+        {
+          "id": 16,
+          "question": "Which keyword creates a class?",
+          "options": ["struct", "define", "class", "object"],
+          "answer": "class",
+          "explanation": "The class keyword defines a new class."
+        },
+        {
+          "id": 17,
+          "question": "What is inheritance?",
+          "options": [
+            "Deleting objects",
+            "Deriving new classes",
+            "Looping",
+            "Importing"
+          ],
+          "answer": "Deriving new classes",
+          "explanation": "Inheritance lets a class reuse properties of another class."
+        },
+        {
+          "id": 18,
+          "question": "Which variable belongs to the object instance?",
+          "options": [
+            "class variable",
+            "static variable",
+            "instance variable",
+            "global variable"
+          ],
+          "answer": "instance variable",
+          "explanation": "Instance variables are unique to each object."
+        },
+        {
+          "id": 19,
+          "question": "Which method is automatically called when an object is created?",
+          "options": ["__new__", "__init__", "__start__", "__call__"],
+          "answer": "__init__",
+          "explanation": "__init__ runs when a new object is instantiated."
+        },
+        {
+          "id": 20,
+          "question": "What does 'self' refer to?",
+          "options": ["Class", "Module", "Current instance", "Parent class"],
+          "answer": "Current instance",
+          "explanation": "'self' refers to the current object."
+        }
+      ]
+    },
+    {
+      "section": "Python Libraries",
+      "type": "Ecosystem & Tools",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Which library is used for numerical computing?",
+          "options": ["NumPy", "Pandas", "Matplotlib", "Requests"],
+          "answer": "NumPy",
+          "explanation": "NumPy provides support for large multi-dimensional arrays."
+        },
+        {
+          "id": 22,
+          "question": "Which library is popular for data analysis?",
+          "options": ["Flask", "TensorFlow", "Pandas", "SciPy"],
+          "answer": "Pandas",
+          "explanation": "Pandas is widely used for tabular data processing."
+        },
+        {
+          "id": 23,
+          "question": "Which library is used for HTTP requests?",
+          "options": ["urllib", "requests", "socket", "json"],
+          "answer": "requests",
+          "explanation": "Requests simplifies sending HTTP calls."
+        },
+        {
+          "id": 24,
+          "question": "Which library is used for plotting graphs?",
+          "options": ["NumPy", "Seaborn", "Matplotlib", "Plotly"],
+          "answer": "Matplotlib",
+          "explanation": "Matplotlib is a standard plotting library."
+        },
+        {
+          "id": 25,
+          "question": "Which library is used for machine learning?",
+          "options": ["Scikit-learn", "BeautifulSoup", "OpenCV", "Django"],
+          "answer": "Scikit-learn",
+          "explanation": "Scikit-learn provides classic ML algorithms."
+        }
+      ]
+    }
+  ]
+}

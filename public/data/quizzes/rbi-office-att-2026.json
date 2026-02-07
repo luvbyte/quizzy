@@ -1,0 +1,135 @@
+{
+  "title": "RBI Office Attendant 2026",
+  "total_sections": 4,
+  "quizzes": [
+    {
+      "section": "Reasoning Ability",
+      "type": "Mixed Reasoning",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Five people (A, B, C, D, E) are sitting in a row facing North. A is to the immediate left of B. C is between B and D. E is at the extreme right end. Who is sitting in the middle?",
+          "options": ["A", "B", "C", "D"],
+          "answer": "C",
+          "explanation": "The arrangement is: A - B - C - D - E. The middle person is C."
+        },
+        {
+          "id": 2,
+          "question": "If 'MOBILE' is coded as 'NPKJMF', how is 'TABLE' coded?",
+          "options": ["UBCMF", "UBCNF", "VBCMF", "UACMF"],
+          "answer": "UBCMF",
+          "explanation": "Each letter is shifted by +1 (T+1=U, A+1=B, B+1=C, L+1=M, E+1=F)."
+        },
+        {
+          "id": 3,
+          "question": "Statements: All Pens are Pencils. Some Pencils are Erasers. Conclusion: I. Some Pens are Erasers. II. Some Pencils are Pens.",
+          "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither follows"],
+          "answer": "Only II follows",
+          "explanation": "Since all Pens are Pencils, some Pencils are definitely Pens. However, there is no direct link between Pens and Erasers."
+        },
+        {
+          "id": 4,
+          "question": "Pointing to a man, a woman said, 'He is the only son of my mother's mother.' How is the woman related to the man?",
+          "options": ["Sister", "Daughter", "Niece", "Aunt"],
+          "answer": "Niece",
+          "explanation": "Mother's mother is Grandmother. Her only son is the woman's maternal uncle. Thus, the woman is his niece."
+        }
+      ]
+    },
+    {
+      "section": "Numerical Ability",
+      "type": "Arithmetic & DI",
+      "questions": [
+        {
+          "id": 5,
+          "question": "A sum of money doubles itself in 5 years at simple interest. What is the rate of interest per annum?",
+          "options": ["10%", "15%", "20%", "25%"],
+          "answer": "20%",
+          "explanation": "If Principal is P, Amount becomes 2P. SI = P. Using SI = (P*R*T)/100, P = (P*R*5)/100 => R = 20%."
+        },
+        {
+          "id": 6,
+          "question": "Find the missing number in the series: 4, 9, 16, 25, ?",
+          "options": ["30", "35", "36", "49"],
+          "answer": "36",
+          "explanation": "The series consists of squares of consecutive numbers: 2², 3², 4², 5², so the next is 6² = 36."
+        },
+        {
+          "id": 7,
+          "question": "The average age of 3 boys is 15 years. If their ages are in the ratio 3:5:7, what is the age of the youngest boy?",
+          "options": ["8 years", "9 years", "12 years", "15 years"],
+          "answer": "9 years",
+          "explanation": "Total age = 15 * 3 = 45. Ratio sum = 3+5+7 = 15. Age of youngest = (3/15) * 45 = 9."
+        },
+        {
+          "id": 8,
+          "question": "A shopkeeper sells an item for ₹240 at a profit of 20%. What was the cost price?",
+          "options": ["₹180", "₹190", "₹200", "₹210"],
+          "answer": "₹200",
+          "explanation": "CP = SP / (1 + Profit%). CP = 240 / 1.2 = 200."
+        }
+      ]
+    },
+    {
+      "section": "General English",
+      "type": "Vocabulary & Grammar",
+      "questions": [
+        {
+          "id": 9,
+          "question": "Choose the correct synonym for 'ABANDON':",
+          "options": ["Keep", "Forsake", "Adopt", "Join"],
+          "answer": "Forsake",
+          "explanation": "To abandon means to leave or desert, which is synonymous with forsake."
+        },
+        {
+          "id": 10,
+          "question": "Identify the error: 'He (A) / have been (B) / working (C) / since morning (D).'",
+          "options": ["A", "B", "C", "D"],
+          "answer": "B",
+          "explanation": "'He' is singular, so it should be 'has been' instead of 'have been'."
+        },
+        {
+          "id": 11,
+          "question": "Antonym of 'FRAGILE':",
+          "options": ["Weak", "Delicate", "Robust", "Brittle"],
+          "answer": "Robust",
+          "explanation": "Fragile means easily broken; robust means strong and healthy."
+        }
+      ]
+    },
+    {
+      "section": "General Awareness",
+      "type": "Banking & Current Affairs",
+      "questions": [
+        {
+          "id": 12,
+          "question": "Where is the headquarters of the Reserve Bank of India (RBI) located?",
+          "options": ["New Delhi", "Chennai", "Mumbai", "Kolkata"],
+          "answer": "Mumbai",
+          "explanation": "The RBI was established in Kolkata but moved permanently to Mumbai in 1937."
+        },
+        {
+          "id": 13,
+          "question": "Who is the current Governor of RBI as of early 2026?",
+          "options": ["Urjit Patel", "Raghuram Rajan", "Shaktikanta Das", "Nirmala Sitharaman"],
+          "answer": "Shaktikanta Das",
+          "explanation": "Shaktikanta Das continues to serve as the Governor of the Reserve Bank of India."
+        },
+        {
+          "id": 14,
+          "question": "What does 'R' stand for in RTGS?",
+          "options": ["Real", "Rapid", "Remote", "Right"],
+          "answer": "Real",
+          "explanation": "RTGS stands for Real Time Gross Settlement."
+        },
+        {
+          "id": 15,
+          "question": "Which of these is a Kharif crop?",
+          "options": ["Wheat", "Rice", "Mustard", "Gram"],
+          "answer": "Rice",
+          "explanation": "Rice is a Kharif crop, typically sown at the beginning of the monsoon season."
+        }
+      ]
+    }
+  ]
+}

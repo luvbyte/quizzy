@@ -1,0 +1,231 @@
+{
+  "title": "Master Quiz 2026 - MySQL Edition",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "MySQL Basics",
+      "type": "Database Fundamentals",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which command is used to display all databases in MySQL?",
+          "options": [
+            "SHOW DATABASES;",
+            "LIST DATABASES;",
+            "DISPLAY DATABASES;",
+            "GET DATABASES;"
+          ],
+          "answer": "SHOW DATABASES;",
+          "explanation": "SHOW DATABASES lists all databases available on the server."
+        },
+        {
+          "id": 2,
+          "question": "Which SQL statement is used to retrieve data from a table?",
+          "options": ["GET", "FETCH", "SELECT", "READ"],
+          "answer": "SELECT",
+          "explanation": "SELECT is used to query data from tables."
+        },
+        {
+          "id": 3,
+          "question": "Which data type stores textual data?",
+          "options": ["INT", "VARCHAR", "FLOAT", "DATE"],
+          "answer": "VARCHAR",
+          "explanation": "VARCHAR stores variable-length strings."
+        },
+        {
+          "id": 4,
+          "question": "Which clause filters rows in a SELECT query?",
+          "options": ["GROUP BY", "ORDER BY", "WHERE", "HAVING"],
+          "answer": "WHERE",
+          "explanation": "WHERE restricts rows based on conditions."
+        },
+        {
+          "id": 5,
+          "question": "Which keyword is used to remove a table permanently?",
+          "options": ["DELETE", "DROP", "TRUNCATE", "CLEAR"],
+          "answer": "DROP",
+          "explanation": "DROP TABLE removes the table definition and data."
+        }
+      ]
+    },
+    {
+      "section": "MySQL Intermediate",
+      "type": "Querying & Constraints",
+      "questions": [
+        {
+          "id": 6,
+          "question": "Which constraint ensures a column cannot contain NULL values?",
+          "options": ["UNIQUE", "PRIMARY KEY", "NOT NULL", "CHECK"],
+          "answer": "NOT NULL",
+          "explanation": "NOT NULL forces every row to have a value."
+        },
+        {
+          "id": 7,
+          "question": "Which function returns the total number of rows?",
+          "options": ["SUM()", "TOTAL()", "COUNT()", "ROWS()"],
+          "answer": "COUNT()",
+          "explanation": "COUNT() returns the number of rows."
+        },
+        {
+          "id": 8,
+          "question": "Which JOIN returns only matching rows from both tables?",
+          "options": ["LEFT JOIN", "RIGHT JOIN", "INNER JOIN", "FULL JOIN"],
+          "answer": "INNER JOIN",
+          "explanation": "INNER JOIN returns records with matching values."
+        },
+        {
+          "id": 9,
+          "question": "Which clause is used with aggregate functions?",
+          "options": ["WHERE", "GROUP BY", "ORDER BY", "LIMIT"],
+          "answer": "GROUP BY",
+          "explanation": "GROUP BY groups rows for aggregate calculations."
+        },
+        {
+          "id": 10,
+          "question": "Which command removes all rows but keeps the table structure?",
+          "options": ["DELETE", "DROP", "TRUNCATE", "REMOVE"],
+          "answer": "TRUNCATE",
+          "explanation": "TRUNCATE clears all data while keeping the schema."
+        }
+      ]
+    },
+    {
+      "section": "MySQL Advanced",
+      "type": "Performance & Advanced SQL",
+      "questions": [
+        {
+          "id": 11,
+          "question": "Which object improves query performance?",
+          "options": ["Trigger", "Index", "View", "Cursor"],
+          "answer": "Index",
+          "explanation": "Indexes speed up data retrieval."
+        },
+        {
+          "id": 12,
+          "question": "Which command shows how MySQL executes a query?",
+          "options": ["DESCRIBE", "TRACE", "EXPLAIN", "ANALYZE"],
+          "answer": "EXPLAIN",
+          "explanation": "EXPLAIN displays the query execution plan."
+        },
+        {
+          "id": 13,
+          "question": "Which isolation level prevents dirty reads?",
+          "options": [
+            "READ UNCOMMITTED",
+            "READ COMMITTED",
+            "REPEATABLE READ",
+            "SERIALIZABLE"
+          ],
+          "answer": "READ COMMITTED",
+          "explanation": "READ COMMITTED avoids reading uncommitted changes."
+        },
+        {
+          "id": 14,
+          "question": "Which type of index is created automatically for PRIMARY KEY?",
+          "options": ["HASH", "UNIQUE", "BTREE", "SPATIAL"],
+          "answer": "BTREE",
+          "explanation": "Primary keys use BTREE indexes by default."
+        },
+        {
+          "id": 15,
+          "question": "Which feature ensures ACID compliance?",
+          "options": ["MyISAM", "InnoDB", "CSV", "MEMORY"],
+          "answer": "InnoDB",
+          "explanation": "InnoDB supports transactions and crash recovery."
+        }
+      ]
+    },
+    {
+      "section": "MySQL Stored Programs",
+      "type": "Procedures & Triggers",
+      "questions": [
+        {
+          "id": 16,
+          "question": "Which keyword is used to create a stored procedure?",
+          "options": ["DEFINE", "PROCEDURE", "CREATE PROCEDURE", "MAKE PROC"],
+          "answer": "CREATE PROCEDURE",
+          "explanation": "CREATE PROCEDURE defines stored logic in MySQL."
+        },
+        {
+          "id": 17,
+          "question": "What is a trigger?",
+          "options": [
+            "Scheduled job",
+            "Automatically executed SQL on events",
+            "Index type",
+            "Backup command"
+          ],
+          "answer": "Automatically executed SQL on events",
+          "explanation": "Triggers run automatically when INSERT/UPDATE/DELETE occur."
+        },
+        {
+          "id": 18,
+          "question": "Which statement exits a loop in MySQL procedures?",
+          "options": ["STOP", "LEAVE", "BREAK", "EXIT"],
+          "answer": "LEAVE",
+          "explanation": "LEAVE is used to exit labeled blocks or loops."
+        },
+        {
+          "id": 19,
+          "question": "Which object stores a saved SELECT query?",
+          "options": ["Procedure", "View", "Trigger", "Cursor"],
+          "answer": "View",
+          "explanation": "Views store virtual tables from queries."
+        },
+        {
+          "id": 20,
+          "question": "Which keyword handles errors in stored programs?",
+          "options": ["TRY", "DECLARE HANDLER", "CATCH", "ERROR"],
+          "answer": "DECLARE HANDLER",
+          "explanation": "DECLARE HANDLER manages exceptions in MySQL routines."
+        }
+      ]
+    },
+    {
+      "section": "MySQL Administration",
+      "type": "Security & Maintenance",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Which command creates a new MySQL user?",
+          "options": ["ADD USER", "CREATE USER", "NEW USER", "MAKE USER"],
+          "answer": "CREATE USER",
+          "explanation": "CREATE USER adds a new account."
+        },
+        {
+          "id": 22,
+          "question": "Which statement grants privileges?",
+          "options": ["ALLOW", "PERMIT", "GRANT", "ACCESS"],
+          "answer": "GRANT",
+          "explanation": "GRANT assigns permissions to users."
+        },
+        {
+          "id": 23,
+          "question": "Which tool backs up MySQL databases from command line?",
+          "options": ["mysqladmin", "mysqldump", "mysqlbackup", "dbdump"],
+          "answer": "mysqldump",
+          "explanation": "mysqldump exports databases to SQL files."
+        },
+        {
+          "id": 24,
+          "question": "Which log records failed login attempts?",
+          "options": [
+            "Error log",
+            "Slow query log",
+            "General log",
+            "Binary log"
+          ],
+          "answer": "Error log",
+          "explanation": "The error log captures authentication failures."
+        },
+        {
+          "id": 25,
+          "question": "Which port does MySQL use by default?",
+          "options": ["3306", "8080", "1521", "5432"],
+          "answer": "3306",
+          "explanation": "MySQL listens on port 3306 by default."
+        }
+      ]
+    }
+  ]
+}
