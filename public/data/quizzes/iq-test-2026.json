@@ -1,0 +1,220 @@
+{
+  "title": "IQ Test Quiz 2026",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "Number Patterns",
+      "type": "Logical Sequences",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Find the next number: 2, 4, 8, 16, ?",
+          "options": ["18", "24", "32", "34"],
+          "answer": "32",
+          "explanation": "Each number is multiplied by 2."
+        },
+        {
+          "id": 2,
+          "question": "Find the missing number: 3, 6, 9, ?, 15",
+          "options": ["10", "11", "12", "13"],
+          "answer": "12",
+          "explanation": "The sequence increases by 3."
+        },
+        {
+          "id": 3,
+          "question": "What comes next? 1, 4, 9, 16, ?",
+          "options": ["20", "25", "30", "36"],
+          "answer": "25",
+          "explanation": "These are perfect squares: 1², 2², 3², 4², so next is 5²."
+        },
+        {
+          "id": 4,
+          "question": "Find the next number: 2, 6, 12, 20, ?",
+          "options": ["24", "30", "28", "32"],
+          "answer": "30",
+          "explanation": "Pattern is n×(n+1): 1×2, 2×3, 3×4, 4×5 → 5×6 = 30."
+        },
+        {
+          "id": 5,
+          "question": "What comes next? 5, 10, 20, 40, ?",
+          "options": ["45", "60", "80", "90"],
+          "answer": "80",
+          "explanation": "Each number doubles."
+        }
+      ]
+    },
+
+    {
+      "section": "Logical Reasoning",
+      "type": "Deduction",
+      "questions": [
+        {
+          "id": 6,
+          "question": "All cats are animals. Some animals are black. Which statement must be true?",
+          "options": [
+            "All cats are black",
+            "Some cats may be black",
+            "No cats are black",
+            "All black animals are cats"
+          ],
+          "answer": "Some cats may be black",
+          "explanation": "Given overlap between sets, it is possible but not guaranteed."
+        },
+        {
+          "id": 7,
+          "question": "If today is Monday, what day will it be after 10 days?",
+          "options": ["Wednesday", "Thursday", "Friday", "Saturday"],
+          "answer": "Thursday",
+          "explanation": "10 mod 7 = 3 days ahead: Monday → Thursday."
+        },
+        {
+          "id": 8,
+          "question": "Which one does not belong?",
+          "options": ["Triangle", "Square", "Circle", "Cube"],
+          "answer": "Cube",
+          "explanation": "Cube is 3D; the others are 2D shapes."
+        },
+        {
+          "id": 9,
+          "question": "If A > B and B > C, which is true?",
+          "options": ["A > C", "C > A", "A = C", "Impossible"],
+          "answer": "A > C",
+          "explanation": "By transitivity, A is greater than C."
+        },
+        {
+          "id": 10,
+          "question": "Which word is the odd one out?",
+          "options": ["Apple", "Banana", "Carrot", "Mango"],
+          "answer": "Carrot",
+          "explanation": "Carrot is a vegetable; others are fruits."
+        }
+      ]
+    },
+
+    {
+      "section": "Visual & Shape Logic",
+      "type": "Spatial Reasoning",
+      "questions": [
+        {
+          "id": 11,
+          "question": "If ▲ becomes ■ and ■ becomes ●, what does ▲ become?",
+          "options": ["●", "▲", "■", "◆"],
+          "answer": "■",
+          "explanation": "The rule states triangle transforms into square."
+        },
+        {
+          "id": 12,
+          "question": "Which shape completes the pattern? ○ ▲ ○ ▲ ?",
+          "options": ["■", "○", "▲", "◆"],
+          "answer": "○",
+          "explanation": "The pattern alternates circle and triangle."
+        },
+        {
+          "id": 13,
+          "question": "Which has the most sides?",
+          "options": ["Hexagon", "Pentagon", "Octagon", "Square"],
+          "answer": "Octagon",
+          "explanation": "Octagon has 8 sides."
+        },
+        {
+          "id": 14,
+          "question": "Which is a mirror image of 'b'?",
+          "options": ["d", "p", "q", "g"],
+          "answer": "d",
+          "explanation": "The mirror image of lowercase 'b' is 'd'."
+        },
+        {
+          "id": 15,
+          "question": "Which shape has no corners?",
+          "options": ["Triangle", "Square", "Circle", "Pentagon"],
+          "answer": "Circle",
+          "explanation": "A circle has no vertices."
+        }
+      ]
+    },
+
+    {
+      "section": "Word & Analogy Puzzles",
+      "type": "Verbal Intelligence",
+      "questions": [
+        {
+          "id": 16,
+          "question": "Bird is to Fly as Fish is to ____?",
+          "options": ["Run", "Jump", "Swim", "Dive"],
+          "answer": "Swim",
+          "explanation": "Birds fly; fish swim."
+        },
+        {
+          "id": 17,
+          "question": "Hot is to Cold as Day is to ____?",
+          "options": ["Night", "Sun", "Moon", "Evening"],
+          "answer": "Night",
+          "explanation": "Opposite relationship."
+        },
+        {
+          "id": 18,
+          "question": "Doctor is to Hospital as Teacher is to ____?",
+          "options": ["Office", "Classroom", "School", "Library"],
+          "answer": "School",
+          "explanation": "Teacher works in a school."
+        },
+        {
+          "id": 19,
+          "question": "Pen is to Write as Knife is to ____?",
+          "options": ["Eat", "Sharpen", "Cut", "Break"],
+          "answer": "Cut",
+          "explanation": "A knife is used to cut."
+        },
+        {
+          "id": 20,
+          "question": "Fast is to Slow as Strong is to ____?",
+          "options": ["Heavy", "Light", "Weak", "Hard"],
+          "answer": "Weak",
+          "explanation": "Opposite of strong."
+        }
+      ]
+    },
+
+    {
+      "section": "Mixed Brain Teasers",
+      "type": "High Difficulty",
+      "questions": [
+        {
+          "id": 21,
+          "question": "How many months have 28 days?",
+          "options": ["1", "2", "6", "12"],
+          "answer": "12",
+          "explanation": "All months have at least 28 days."
+        },
+        {
+          "id": 22,
+          "question": "If you overtake the second person in a race, what position are you in?",
+          "options": ["First", "Second", "Third", "Fourth"],
+          "answer": "Second",
+          "explanation": "You take the place of the second person."
+        },
+        {
+          "id": 23,
+          "question": "What can travel around the world while staying in one corner?",
+          "options": ["Stamp", "Sun", "Shadow", "Cloud"],
+          "answer": "Stamp",
+          "explanation": "A stamp sits in the corner of an envelope."
+        },
+        {
+          "id": 24,
+          "question": "Which number is odd one out? 2, 6, 12, 20, 30",
+          "options": ["6", "12", "20", "30"],
+          "answer": "30",
+          "explanation": "Others follow n(n+1); 30 breaks the pattern."
+        },
+        {
+          "id": 25,
+          "question": "If two’s company and three’s a crowd, what are four and five?",
+          "options": ["Nine", "Ten", "Party", "Six"],
+          "answer": "Nine",
+          "explanation": "It's simple arithmetic: 4 + 5 = 9."
+        }
+      ]
+    }
+  ]
+}

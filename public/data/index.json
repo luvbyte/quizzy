@@ -1,5 +1,17 @@
 [
   {
+    "name": "common-sense-2026",
+    "title": "Common Sense Quiz 2026",
+    "sections": 5,
+    "level": "easy"
+  },
+  {
+    "name": "iq-test-2026",
+    "title": "IQ Test Quiz 2026",
+    "sections": 5,
+    "level": "normal"
+  },
+  {
     "name": "python-master-quiz-2026",
     "title": "Master Quiz 2026 Python Edition",
     "sections": 5,

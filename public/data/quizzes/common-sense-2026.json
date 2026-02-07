@@ -1,0 +1,255 @@
+{
+  "title": "Common Sense Quiz 2026",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "Daily Life Logic",
+      "type": "Reasoning",
+      "questions": [
+        {
+          "id": 1,
+          "question": "If you drop soap on the floor, is the floor clean or the soap dirty?",
+          "options": ["Floor is clean", "Soap is dirty", "Both", "Neither"],
+          "answer": "Soap is dirty",
+          "explanation": "The soap touched the floor, not magically cleaned it 😅."
+        },
+        {
+          "id": 2,
+          "question": "Why do we press harder on a remote when the batteries are dying?",
+          "options": ["Magic", "Hope", "Science", "Anger management"],
+          "answer": "Hope",
+          "explanation": "Deep inside, we believe pressure equals power 😂."
+        },
+        {
+          "id": 3,
+          "question": "What do you call a boomerang that doesn’t come back?",
+          "options": ["Stick", "Bat", "Rod", "Lost"],
+          "answer": "Stick",
+          "explanation": "Once it stops returning, it’s just… wood 😆."
+        },
+        {
+          "id": 4,
+          "question": "Which burns calories faster?",
+          "options": ["Running", "Cycling", "Sleeping", "Arguing online"],
+          "answer": "Arguing online",
+          "explanation": "Emotionally exhausting counts too 😏."
+        },
+        {
+          "id": 5,
+          "question": "Why is it called a building if it’s already built?",
+          "options": [
+            "Grammar failed",
+            "English mystery",
+            "Still being maintained",
+            "Because humans said so"
+          ],
+          "answer": "English mystery",
+          "explanation": "Some words just like confusing us."
+        }
+      ]
+    },
+
+    {
+      "section": "Office & School Humor",
+      "type": "Situational",
+      "questions": [
+        {
+          "id": 6,
+          "question": "What is the real meaning of 'I'll do it tomorrow'?",
+          "options": ["Tomorrow", "Next week", "Maybe never", "Right now"],
+          "answer": "Maybe never",
+          "explanation": "Tomorrow is a magical land 🌈."
+        },
+        {
+          "id": 7,
+          "question": "What disappears the moment the teacher says, 'This is very important'?",
+          "options": ["Pen", "Notebook", "Attention", "Homework"],
+          "answer": "Attention",
+          "explanation": "Instant brain reboot 😵‍💫."
+        },
+        {
+          "id": 8,
+          "question": "What is the unofficial office sport?",
+          "options": ["Cricket", "Chess", "Gossip", "Email refreshing"],
+          "answer": "Email refreshing",
+          "explanation": "Waiting for that reply is cardio."
+        },
+        {
+          "id": 9,
+          "question": "Why do meetings take longer than planned?",
+          "options": [
+            "Important topics",
+            "Free snacks",
+            "Side conversations",
+            "Because they can"
+          ],
+          "answer": "Because they can",
+          "explanation": "Meetings obey no laws of time ⏳."
+        },
+        {
+          "id": 10,
+          "question": "What’s the fastest way to find something you lost?",
+          "options": [
+            "Search carefully",
+            "Buy a replacement",
+            "Ask mom",
+            "Pray"
+          ],
+          "answer": "Buy a replacement",
+          "explanation": "The old one magically appears right after 💸."
+        }
+      ]
+    },
+
+    {
+      "section": "Human Behavior",
+      "type": "Relatable Logic",
+      "questions": [
+        {
+          "id": 11,
+          "question": "Why do people check the fridge again after 5 minutes?",
+          "options": [
+            "Food teleports",
+            "Hope",
+            "Forgot what was inside",
+            "Hungry"
+          ],
+          "answer": "Hope",
+          "explanation": "Maybe new snacks spawned 🍕."
+        },
+        {
+          "id": 12,
+          "question": "What do people do when the Wi-Fi stops working?",
+          "options": [
+            "Wait calmly",
+            "Restart router",
+            "Panic",
+            "All of the above"
+          ],
+          "answer": "All of the above",
+          "explanation": "Step-by-step emotional journey."
+        },
+        {
+          "id": 13,
+          "question": "Why do we hit electronics when they stop working?",
+          "options": [
+            "Engineering",
+            "Stress relief",
+            "Ancient ritual",
+            "Warranty feature"
+          ],
+          "answer": "Ancient ritual",
+          "explanation": "Passed down through generations 📿."
+        },
+        {
+          "id": 14,
+          "question": "What does '5 more minutes' usually become?",
+          "options": ["5 minutes", "10 minutes", "30 minutes", "Tomorrow"],
+          "answer": "30 minutes",
+          "explanation": "Time bends in bed 🛏️."
+        },
+        {
+          "id": 15,
+          "question": "Why do we reread a message before sending?",
+          "options": ["Grammar", "Tone", "Regret prevention", "All of these"],
+          "answer": "All of these",
+          "explanation": "One typo = career-ending moment 😬."
+        }
+      ]
+    },
+
+    {
+      "section": "Food & Survival",
+      "type": "Reality",
+      "questions": [
+        {
+          "id": 16,
+          "question": "What tastes better at 2 AM?",
+          "options": ["Salad", "Leftovers", "Anything", "Water"],
+          "answer": "Anything",
+          "explanation": "Midnight hunger unlocks legendary flavors 🌙."
+        },
+        {
+          "id": 17,
+          "question": "Why does tea/coffee cool faster when you’re busy?",
+          "options": ["Physics", "Bad luck", "Universe trolling", "Wind"],
+          "answer": "Universe trolling",
+          "explanation": "Perfect timing… always."
+        },
+        {
+          "id": 18,
+          "question": "What’s the hardest question at dinner?",
+          "options": [
+            "How was food?",
+            "More rice?",
+            "Diet tomorrow?",
+            "Who cooked"
+          ],
+          "answer": "Diet tomorrow?",
+          "explanation": "Existential crisis begins."
+        },
+        {
+          "id": 19,
+          "question": "What do people say when food falls on the floor?",
+          "options": ["Trash", "Cry", "5-second rule", "Wash it"],
+          "answer": "5-second rule",
+          "explanation": "Science… kind of 🤭."
+        },
+        {
+          "id": 20,
+          "question": "Why do snacks finish faster when you’re watching a movie?",
+          "options": ["Time travel", "Distraction", "Magic", "Plot twist"],
+          "answer": "Distraction",
+          "explanation": "Your hand is on autopilot 🍿."
+        }
+      ]
+    },
+
+    {
+      "section": "Ultimate Silly Sense",
+      "type": "Comedy",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Why do we talk to pets like they understand us?",
+          "options": ["They do", "They judge us", "We’re lonely", "Habit"],
+          "answer": "They judge us",
+          "explanation": "That stare says everything 🐶."
+        },
+        {
+          "id": 22,
+          "question": "What is the most dangerous thought?",
+          "options": ["I can fix it", "It’s fine", "One more episode", "All"],
+          "answer": "All",
+          "explanation": "Every disaster starts here 😆."
+        },
+        {
+          "id": 23,
+          "question": "Why do alarms sound louder on workdays?",
+          "options": ["Settings", "Cruelty", "Psychology", "Government"],
+          "answer": "Cruelty",
+          "explanation": "Pure evil beeps ⏰."
+        },
+        {
+          "id": 24,
+          "question": "What’s the bravest sentence?",
+          "options": [
+            "I’ll wake up early",
+            "I won’t procrastinate",
+            "I’ll save money",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Spoken by dreamers everywhere."
+        },
+        {
+          "id": 25,
+          "question": "Why do people open the fridge even when they’re not hungry?",
+          "options": ["Habit", "Hope", "Boredom", "All"],
+          "answer": "All",
+          "explanation": "The fridge is a personality test."
+        }
+      ]
+    }
+  ]
+}
