@@ -1,0 +1,336 @@
+{
+  "title": "Sports Quiz",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "Football Basics",
+      "type": "Basics",
+      "questions": [
+        {
+          "id": 1,
+          "question": "How many players are on the field for one football team?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "answer": "11",
+          "explanation": "Each team plays with 11 players on the field ⚽."
+        },
+        {
+          "id": 2,
+          "question": "What is it called when a player scores three goals in one match?",
+          "options": [
+            "Triple kick",
+            "Hat-trick",
+            "Mega goal",
+            "Power play"
+          ],
+          "answer": "Hat-trick",
+          "explanation": "Three goals by one player is a hat-trick 🎩."
+        },
+        {
+          "id": 3,
+          "question": "Which part of the body cannot touch the ball (except goalkeeper)?",
+          "options": [
+            "Head",
+            "Chest",
+            "Hand",
+            "Knee"
+          ],
+          "answer": "Hand",
+          "explanation": "Outfield players cannot use hands ✋."
+        },
+        {
+          "id": 4,
+          "question": "What color card means a player is sent off?",
+          "options": [
+            "Yellow",
+            "Blue",
+            "Red",
+            "Green"
+          ],
+          "answer": "Red",
+          "explanation": "A red card means immediate dismissal 🟥."
+        },
+        {
+          "id": 5,
+          "question": "What is the biggest football tournament?",
+          "options": [
+            "Champions League",
+            "Copa America",
+            "World Cup",
+            "Euro Cup"
+          ],
+          "answer": "World Cup",
+          "explanation": "The FIFA World Cup is the largest global tournament 🌍."
+        }
+      ]
+    },
+    {
+      "section": "Cricket Fun",
+      "type": "Knowledge",
+      "questions": [
+        {
+          "id": 6,
+          "question": "How many runs is a boundary worth (ball reaches rope)?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "4",
+          "explanation": "A ball that reaches the boundary scores four runs 🏏."
+        },
+        {
+          "id": 7,
+          "question": "How many players are in one cricket team?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "answer": "11",
+          "explanation": "Each cricket team has 11 players."
+        },
+        {
+          "id": 8,
+          "question": "What is it called when a bowler takes three wickets in three balls?",
+          "options": [
+            "Triple",
+            "Hat-trick",
+            "Super over",
+            "Strike"
+          ],
+          "answer": "Hat-trick",
+          "explanation": "Three wickets in three balls is a hat-trick 🎩."
+        },
+        {
+          "id": 9,
+          "question": "What protects a batter’s legs?",
+          "options": [
+            "Helmet",
+            "Gloves",
+            "Pads",
+            "Cap"
+          ],
+          "answer": "Pads",
+          "explanation": "Leg pads protect from fast deliveries 🦵."
+        },
+        {
+          "id": 10,
+          "question": "What is the maximum runs scored in one legal delivery?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "answer": "6",
+          "explanation": "A six is the maximum from one hit 💥."
+        }
+      ]
+    },
+    {
+      "section": "Basketball",
+      "type": "Basics",
+      "questions": [
+        {
+          "id": 11,
+          "question": "How many players are on court per team?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "answer": "5",
+          "explanation": "Five players per team on the court 🏀."
+        },
+        {
+          "id": 12,
+          "question": "How many points is a free throw worth?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "1",
+          "explanation": "Each free throw scores one point."
+        },
+        {
+          "id": 13,
+          "question": "What is a 3-point shot?",
+          "options": [
+            "Inside paint",
+            "Half court",
+            "Beyond arc",
+            "Free throw"
+          ],
+          "answer": "Beyond arc",
+          "explanation": "Shots beyond the three-point line count as 3️⃣."
+        },
+        {
+          "id": 14,
+          "question": "What happens after 5 personal fouls (NBA rules)?",
+          "options": [
+            "Warning",
+            "Timeout",
+            "Foul out",
+            "Free throw only"
+          ],
+          "answer": "Foul out",
+          "explanation": "Too many fouls remove a player from the game 🚫."
+        },
+        {
+          "id": 15,
+          "question": "What is dribbling?",
+          "options": [
+            "Passing",
+            "Shooting",
+            "Bouncing ball while moving",
+            "Catching"
+          ],
+          "answer": "Bouncing ball while moving",
+          "explanation": "Players must dribble while moving with the ball."
+        }
+      ]
+    },
+    {
+      "section": "Olympics",
+      "type": "Trivia",
+      "questions": [
+        {
+          "id": 16,
+          "question": "How often are the Summer Olympics held?",
+          "options": [
+            "2 years",
+            "3 years",
+            "4 years",
+            "5 years"
+          ],
+          "answer": "4 years",
+          "explanation": "The Olympics happen every four years 🏅."
+        },
+        {
+          "id": 17,
+          "question": "What do the five rings represent?",
+          "options": [
+            "Sports",
+            "Countries",
+            "Continents",
+            "Medals"
+          ],
+          "answer": "Continents",
+          "explanation": "They represent the five inhabited continents 🌎."
+        },
+        {
+          "id": 18,
+          "question": "Which country hosted the 2016 Summer Olympics?",
+          "options": [
+            "China",
+            "Brazil",
+            "UK",
+            "Japan"
+          ],
+          "answer": "Brazil",
+          "explanation": "Rio de Janeiro hosted in 2016 🇧🇷."
+        },
+        {
+          "id": 19,
+          "question": "What medal is given for first place?",
+          "options": [
+            "Silver",
+            "Bronze",
+            "Gold",
+            "Platinum"
+          ],
+          "answer": "Gold",
+          "explanation": "Gold medal means first place 🥇."
+        },
+        {
+          "id": 20,
+          "question": "Which sport includes vault and balance beam?",
+          "options": [
+            "Swimming",
+            "Athletics",
+            "Gymnastics",
+            "Wrestling"
+          ],
+          "answer": "Gymnastics",
+          "explanation": "These are events in gymnastics 🤸."
+        }
+      ]
+    },
+    {
+      "section": "Sports Humor",
+      "type": "Comedy",
+      "questions": [
+        {
+          "id": 21,
+          "question": "When does your team play best?",
+          "options": [
+            "Final match",
+            "Friendly game",
+            "When you're not watching",
+            "Training"
+          ],
+          "answer": "When you're not watching",
+          "explanation": "Classic fan logic 😅."
+        },
+        {
+          "id": 22,
+          "question": "What increases during a close match?",
+          "options": [
+            "Calmness",
+            "Heart rate",
+            "Silence",
+            "Snacks"
+          ],
+          "answer": "Heart rate",
+          "explanation": "Stress level max 📈."
+        },
+        {
+          "id": 23,
+          "question": "Why do fans shout at the TV?",
+          "options": [
+            "Strategy advice",
+            "Emotion",
+            "Habit",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "The players can totally hear you… maybe 📺."
+        },
+        {
+          "id": 24,
+          "question": "What disappears fastest during a big game?",
+          "options": [
+            "Time",
+            "Snacks",
+            "Voice",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Everything vanishes during finals 🍿."
+        },
+        {
+          "id": 25,
+          "question": "Why say 'next season is ours'?",
+          "options": [
+            "Hope",
+            "Confidence",
+            "Denial",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Fan optimism never ends 😄."
+        }
+      ]
+    }
+  ]
+}

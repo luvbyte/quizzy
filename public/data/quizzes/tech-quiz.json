@@ -1,0 +1,336 @@
+{
+  "title": "Tech Quiz",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "Smartphone Life",
+      "type": "Reasoning",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why does your phone lag when you need it fast?",
+          "options": [
+            "Low storage",
+            "Too many apps",
+            "Bad timing",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Phones sense urgency 📱."
+        },
+        {
+          "id": 2,
+          "question": "What improves phone speed instantly?",
+          "options": [
+            "Restart",
+            "Shake it",
+            "Close eyes",
+            "Pray"
+          ],
+          "answer": "Restart",
+          "explanation": "Classic fix works again 🔄."
+        },
+        {
+          "id": 3,
+          "question": "Why do updates take forever?",
+          "options": [
+            "Big files",
+            "Slow Wi-Fi",
+            "Battery check",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Patience test activated ⏳."
+        },
+        {
+          "id": 4,
+          "question": "What drains battery fastest?",
+          "options": [
+            "Gaming",
+            "Brightness",
+            "Background apps",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Energy disappears quickly 🔋."
+        },
+        {
+          "id": 5,
+          "question": "Why do we check phones without notifications?",
+          "options": [
+            "Habit",
+            "Hope",
+            "Reflex",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Phantom buzz effect 📳."
+        }
+      ]
+    },
+    {
+      "section": "Social Media",
+      "type": "Situational",
+      "questions": [
+        {
+          "id": 6,
+          "question": "What does 'just 5 minutes scrolling' become?",
+          "options": [
+            "10 minutes",
+            "1 hour",
+            "3 hours",
+            "Midnight"
+          ],
+          "answer": "Midnight",
+          "explanation": "Time flies online 🌙."
+        },
+        {
+          "id": 7,
+          "question": "Why do posts load slowly sometimes?",
+          "options": [
+            "Server load",
+            "Weak signal",
+            "App glitch",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Internet mood swings 🌐."
+        },
+        {
+          "id": 8,
+          "question": "What increases with more followers?",
+          "options": [
+            "Confidence",
+            "Pressure",
+            "Notifications",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Popularity has side effects 😅."
+        },
+        {
+          "id": 9,
+          "question": "Why do we rewatch our own stories?",
+          "options": [
+            "Check quality",
+            "Ego boost",
+            "Habit",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Self-review mode on 🎥."
+        },
+        {
+          "id": 10,
+          "question": "What happens when Wi-Fi drops mid-upload?",
+          "options": [
+            "Rage",
+            "Retry",
+            "Wait",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Posting struggle begins 📡."
+        }
+      ]
+    },
+    {
+      "section": "Gaming Fun",
+      "type": "Relatable Logic",
+      "questions": [
+        {
+          "id": 11,
+          "question": "When does lag appear most?",
+          "options": [
+            "Tutorial",
+            "Final battle",
+            "Menu screen",
+            "Offline"
+          ],
+          "answer": "Final battle",
+          "explanation": "Drama timing 🎮."
+        },
+        {
+          "id": 12,
+          "question": "Why do updates start before gaming?",
+          "options": [
+            "Auto-update",
+            "Bad luck",
+            "Storage check",
+            "All"
+          ],
+          "answer": "Auto-update",
+          "explanation": "Update always wins ⬇️."
+        },
+        {
+          "id": 13,
+          "question": "What causes most rage quits?",
+          "options": [
+            "Lag",
+            "Defeat",
+            "Teammates",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Emotions level up 🔥."
+        },
+        {
+          "id": 14,
+          "question": "Why say 'last match' repeatedly?",
+          "options": [
+            "Addiction",
+            "Hope to win",
+            "Fun",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "One more round 😄."
+        },
+        {
+          "id": 15,
+          "question": "What drains fastest during gaming?",
+          "options": [
+            "Battery",
+            "Patience",
+            "Data",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Gaming costs everything ⚡."
+        }
+      ]
+    },
+    {
+      "section": "Work Tech",
+      "type": "Reality",
+      "questions": [
+        {
+          "id": 16,
+          "question": "Why does software freeze during presentations?",
+          "options": [
+            "Stress",
+            "Heavy load",
+            "Coincidence",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Perfect timing glitch 💻."
+        },
+        {
+          "id": 17,
+          "question": "What fixes many computer issues?",
+          "options": [
+            "Restart",
+            "Update",
+            "Clear cache",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Basic fixes save the day 🛠️."
+        },
+        {
+          "id": 18,
+          "question": "Why is cloud storage useful?",
+          "options": [
+            "Backup",
+            "Access anywhere",
+            "Sharing",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Data stays safe ☁️."
+        },
+        {
+          "id": 19,
+          "question": "What slows old computers most?",
+          "options": [
+            "Low RAM",
+            "Full storage",
+            "Too many apps",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Overloaded system 🧠."
+        },
+        {
+          "id": 20,
+          "question": "Why use strong passwords?",
+          "options": [
+            "Security",
+            "Privacy",
+            "Protection",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Safety first 🔐."
+        }
+      ]
+    },
+    {
+      "section": "Tech Humor",
+      "type": "Comedy",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Why does the internet fix itself when you complain?",
+          "options": [
+            "Coincidence",
+            "Fear",
+            "Glitch reset",
+            "Mystery"
+          ],
+          "answer": "Coincidence",
+          "explanation": "It hears you 😄."
+        },
+        {
+          "id": 22,
+          "question": "What’s the boldest tech promise?",
+          "options": [
+            "No bugs",
+            "Unlimited speed",
+            "Lifetime battery",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Marketing power strong 📢."
+        },
+        {
+          "id": 23,
+          "question": "Why do we ignore low battery warnings?",
+          "options": [
+            "Confidence",
+            "Denial",
+            "Hope",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "1% faith remains 🔋."
+        },
+        {
+          "id": 24,
+          "question": "What’s the fastest way to lose productivity?",
+          "options": [
+            "Notifications",
+            "Scrolling",
+            "Gaming",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Focus left the chat 📉."
+        },
+        {
+          "id": 25,
+          "question": "Why say 'I'll update later'?",
+          "options": [
+            "Laziness",
+            "Fear of bugs",
+            "Busy",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Procrastination mode 😅."
+        }
+      ]
+    }
+  ]
+}

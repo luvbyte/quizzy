@@ -1,0 +1,336 @@
+{
+  "title": "Space Quiz",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "Solar System",
+      "type": "Basics",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which planet is known as the Red Planet?",
+          "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Venus"
+          ],
+          "answer": "Mars",
+          "explanation": "Mars looks red due to iron oxide on its surface 🔴."
+        },
+        {
+          "id": 2,
+          "question": "What is the largest planet in our solar system?",
+          "options": [
+            "Saturn",
+            "Earth",
+            "Jupiter",
+            "Neptune"
+          ],
+          "answer": "Jupiter",
+          "explanation": "Jupiter is the giant of our solar system 🌍."
+        },
+        {
+          "id": 3,
+          "question": "Which planet has the most visible rings?",
+          "options": [
+            "Mars",
+            "Saturn",
+            "Uranus",
+            "Mercury"
+          ],
+          "answer": "Saturn",
+          "explanation": "Saturn’s rings are bright and beautiful 💫."
+        },
+        {
+          "id": 4,
+          "question": "Which planet is closest to the Sun?",
+          "options": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars"
+          ],
+          "answer": "Mercury",
+          "explanation": "Mercury orbits nearest to the Sun ☀️."
+        },
+        {
+          "id": 5,
+          "question": "What celestial body orbits Earth?",
+          "options": [
+            "Sun",
+            "Mars",
+            "Moon",
+            "Venus"
+          ],
+          "answer": "Moon",
+          "explanation": "The Moon is Earth's natural satellite 🌙."
+        }
+      ]
+    },
+    {
+      "section": "Stars & Galaxies",
+      "type": "Knowledge",
+      "questions": [
+        {
+          "id": 6,
+          "question": "What is the name of our galaxy?",
+          "options": [
+            "Andromeda",
+            "Milky Way",
+            "Orion",
+            "Pegasus"
+          ],
+          "answer": "Milky Way",
+          "explanation": "We live inside the Milky Way galaxy 🌌."
+        },
+        {
+          "id": 7,
+          "question": "What do stars mainly produce?",
+          "options": [
+            "Ice",
+            "Light and heat",
+            "Water",
+            "Wind"
+          ],
+          "answer": "Light and heat",
+          "explanation": "Stars shine by producing energy ⭐."
+        },
+        {
+          "id": 8,
+          "question": "What is a shooting star actually?",
+          "options": [
+            "Comet",
+            "Meteor",
+            "Planet",
+            "Satellite"
+          ],
+          "answer": "Meteor",
+          "explanation": "It’s a small rock burning in Earth’s atmosphere ☄️."
+        },
+        {
+          "id": 9,
+          "question": "Which galaxy is closest to the Milky Way?",
+          "options": [
+            "Andromeda",
+            "Whirlpool",
+            "Sombrero",
+            "Pinwheel"
+          ],
+          "answer": "Andromeda",
+          "explanation": "Andromeda is our nearest large neighbor galaxy 🌠."
+        },
+        {
+          "id": 10,
+          "question": "What keeps planets in orbit around the Sun?",
+          "options": [
+            "Wind",
+            "Gravity",
+            "Magnetism",
+            "Light"
+          ],
+          "answer": "Gravity",
+          "explanation": "Gravity holds the solar system together 🧲."
+        }
+      ]
+    },
+    {
+      "section": "Space Travel",
+      "type": "Exploration",
+      "questions": [
+        {
+          "id": 11,
+          "question": "Who was the first human in space?",
+          "options": [
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "Buzz Aldrin",
+            "John Glenn"
+          ],
+          "answer": "Yuri Gagarin",
+          "explanation": "He orbited Earth in 1961 🚀."
+        },
+        {
+          "id": 12,
+          "question": "What do astronauts wear in space?",
+          "options": [
+            "Jacket",
+            "Space suit",
+            "Armor",
+            "Uniform"
+          ],
+          "answer": "Space suit",
+          "explanation": "Space suits protect them from harsh conditions 👨‍🚀."
+        },
+        {
+          "id": 13,
+          "question": "Which spacecraft landed humans on the Moon?",
+          "options": [
+            "Apollo 11",
+            "Voyager 1",
+            "Hubble",
+            "Sputnik"
+          ],
+          "answer": "Apollo 11",
+          "explanation": "Apollo 11 landed in 1969 🌕."
+        },
+        {
+          "id": 14,
+          "question": "What is used to launch rockets?",
+          "options": [
+            "Fuel",
+            "Water",
+            "Air",
+            "Electricity only"
+          ],
+          "answer": "Fuel",
+          "explanation": "Powerful fuel pushes rockets into space 🔥."
+        },
+        {
+          "id": 15,
+          "question": "What is the ISS?",
+          "options": [
+            "Satellite",
+            "Space station",
+            "Rocket",
+            "Planet"
+          ],
+          "answer": "Space station",
+          "explanation": "ISS stands for International Space Station 🛰️."
+        }
+      ]
+    },
+    {
+      "section": "Fun Facts",
+      "type": "Trivia",
+      "questions": [
+        {
+          "id": 16,
+          "question": "Which planet is known for its Great Red Spot?",
+          "options": [
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Venus"
+          ],
+          "answer": "Jupiter",
+          "explanation": "It’s a giant storm on Jupiter 🌪️."
+        },
+        {
+          "id": 17,
+          "question": "How long does Earth take to orbit the Sun?",
+          "options": [
+            "24 hours",
+            "7 days",
+            "365 days",
+            "30 days"
+          ],
+          "answer": "365 days",
+          "explanation": "That’s one year 📅."
+        },
+        {
+          "id": 18,
+          "question": "What is a black hole?",
+          "options": [
+            "Dark star",
+            "Region with strong gravity",
+            "Planet",
+            "Comet"
+          ],
+          "answer": "Region with strong gravity",
+          "explanation": "Not even light can escape it 🕳️."
+        },
+        {
+          "id": 19,
+          "question": "Which planet is called Earth's twin?",
+          "options": [
+            "Mars",
+            "Venus",
+            "Neptune",
+            "Mercury"
+          ],
+          "answer": "Venus",
+          "explanation": "Venus is similar in size to Earth 🌍."
+        },
+        {
+          "id": 20,
+          "question": "What is the Sun?",
+          "options": [
+            "Planet",
+            "Star",
+            "Comet",
+            "Asteroid"
+          ],
+          "answer": "Star",
+          "explanation": "The Sun is a medium-sized star ☀️."
+        }
+      ]
+    },
+    {
+      "section": "Space Humor",
+      "type": "Comedy",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Why don’t astronauts use regular pens in space?",
+          "options": [
+            "They float away",
+            "No gravity ink issue",
+            "Too heavy",
+            "Too expensive"
+          ],
+          "answer": "No gravity ink issue",
+          "explanation": "Ink doesn’t flow well in zero gravity ✍️."
+        },
+        {
+          "id": 22,
+          "question": "Why is space so quiet?",
+          "options": [
+            "No air",
+            "Too far",
+            "Too cold",
+            "Mystery"
+          ],
+          "answer": "No air",
+          "explanation": "Sound needs air to travel 🔇."
+        },
+        {
+          "id": 23,
+          "question": "Why do astronauts float?",
+          "options": [
+            "Magic",
+            "Zero gravity",
+            "Lightweight suits",
+            "Air pressure"
+          ],
+          "answer": "Zero gravity",
+          "explanation": "They experience microgravity 🛰️."
+        },
+        {
+          "id": 24,
+          "question": "What’s the coldest place in space?",
+          "options": [
+            "Moon",
+            "Mars",
+            "Deep space",
+            "Earth"
+          ],
+          "answer": "Deep space",
+          "explanation": "It’s extremely cold away from stars ❄️."
+        },
+        {
+          "id": 25,
+          "question": "Why can’t we hear explosions in space?",
+          "options": [
+            "Too far",
+            "No oxygen",
+            "No atmosphere",
+            "All"
+          ],
+          "answer": "No atmosphere",
+          "explanation": "No air means no sound waves 🌌."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "title": "Everyday Networking Logic Quiz 2026",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "Home Networking Realities",
+      "type": "Reasoning",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why does Wi-Fi slow down when guests arrive?",
+          "options": [
+            "Router fear",
+            "Too many devices",
+            "Internet jealousy",
+            "Signal laziness"
+          ],
+          "answer": "Too many devices",
+          "explanation": "Bandwidth gets shared like pizza slices 🍕."
+        },
+        {
+          "id": 2,
+          "question": "What fixes most router problems?",
+          "options": [
+            "Hitting it",
+            "Restarting it",
+            "Yelling at ISP",
+            "Moving house"
+          ],
+          "answer": "Restarting it",
+          "explanation": "The universal IT solution 🔄."
+        },
+        {
+          "id": 3,
+          "question": "Why does Wi-Fi work better near the router?",
+          "options": [
+            "Magic",
+            "Shorter signal distance",
+            "Router favoritism",
+            "Gravity"
+          ],
+          "answer": "Shorter signal distance",
+          "explanation": "Signals weaken over distance 📶."
+        },
+        {
+          "id": 4,
+          "question": "What happens when you forget the Wi-Fi password?",
+          "options": [
+            "Panic",
+            "Reset router",
+            "Ask family",
+            "All of these"
+          ],
+          "answer": "All of these",
+          "explanation": "Networking drama begins 😅."
+        },
+        {
+          "id": 5,
+          "question": "Why do walls affect Wi-Fi signals?",
+          "options": [
+            "Decoration issues",
+            "Signal blockage",
+            "Paint interference",
+            "Bad luck"
+          ],
+          "answer": "Signal blockage",
+          "explanation": "Physical objects weaken wireless signals 🧱."
+        }
+      ]
+    },
+    {
+      "section": "Office & Study Networking",
+      "type": "Situational",
+      "questions": [
+        {
+          "id": 6,
+          "question": "When does the internet usually drop during meetings?",
+          "options": [
+            "Before meeting",
+            "During presentation",
+            "After meeting",
+            "Never"
+          ],
+          "answer": "During presentation",
+          "explanation": "Timing is everything 🎥."
+        },
+        {
+          "id": 7,
+          "question": "What increases when more users join a network?",
+          "options": [
+            "Speed",
+            "Latency",
+            "Silence",
+            "Free bandwidth"
+          ],
+          "answer": "Latency",
+          "explanation": "More traffic, more delay ⏳."
+        },
+        {
+          "id": 8,
+          "question": "Why do IT teams ask 'Have you tried restarting?'",
+          "options": [
+            "Habit",
+            "Tradition",
+            "It works often",
+            "Script reading"
+          ],
+          "answer": "It works often",
+          "explanation": "Simple fixes solve big problems 🛠️."
+        },
+        {
+          "id": 9,
+          "question": "What happens when you forget to mute on a call?",
+          "options": [
+            "Silence",
+            "Echo",
+            "Background noise chaos",
+            "Nothing"
+          ],
+          "answer": "Background noise chaos",
+          "explanation": "Everyone hears everything 🎙️."
+        },
+        {
+          "id": 10,
+          "question": "What’s the hardest network issue to explain?",
+          "options": [
+            "Slow Wi-Fi",
+            "IP conflict",
+            "It works on my device",
+            "All of it"
+          ],
+          "answer": "All of it",
+          "explanation": "Networking mysteries everywhere 🤯."
+        }
+      ]
+    },
+    {
+      "section": "Internet Habits",
+      "type": "Relatable Logic",
+      "questions": [
+        {
+          "id": 11,
+          "question": "Why do we refresh a webpage repeatedly?",
+          "options": [
+            "Hope",
+            "Habit",
+            "Impatience",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Maybe it loads faster this time 🔄."
+        },
+        {
+          "id": 12,
+          "question": "What happens when Wi-Fi disconnects suddenly?",
+          "options": [
+            "Calm reaction",
+            "Router stare",
+            "Instant frustration",
+            "Nap time"
+          ],
+          "answer": "Instant frustration",
+          "explanation": "Modern survival depends on it 📡."
+        },
+        {
+          "id": 13,
+          "question": "Why do we stand still when signal is weak?",
+          "options": [
+            "Strategy",
+            "Superstition",
+            "Better reception chance",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Don't move, it's working 😅."
+        },
+        {
+          "id": 14,
+          "question": "What does 'Just one more video' depend on?",
+          "options": [
+            "Autoplay",
+            "Bandwidth",
+            "Wi-Fi speed",
+            "All"
+          ],
+          "answer": "Autoplay",
+          "explanation": "The algorithm never sleeps 📱."
+        },
+        {
+          "id": 15,
+          "question": "Why do we check signal bars constantly?",
+          "options": [
+            "Trust issues",
+            "Habit",
+            "Fear of disconnect",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Full bars = peace of mind 📶."
+        }
+      ]
+    },
+    {
+      "section": "Technical Truths",
+      "type": "Reality",
+      "questions": [
+        {
+          "id": 16,
+          "question": "What does a router mainly do?",
+          "options": [
+            "Store files",
+            "Route traffic",
+            "Boost battery",
+            "Charge devices"
+          ],
+          "answer": "Route traffic",
+          "explanation": "It directs data between networks 🔀."
+        },
+        {
+          "id": 17,
+          "question": "Why is Ethernet usually faster than Wi-Fi?",
+          "options": [
+            "Magic cable",
+            "Stable connection",
+            "Color of wire",
+            "Luck"
+          ],
+          "answer": "Stable connection",
+          "explanation": "Wired means less interference 🔌."
+        },
+        {
+          "id": 18,
+          "question": "What is an IP address?",
+          "options": [
+            "Device identity",
+            "Wi-Fi password",
+            "App name",
+            "Router brand"
+          ],
+          "answer": "Device identity",
+          "explanation": "Every device needs an address 🌍."
+        },
+        {
+          "id": 19,
+          "question": "What happens during network congestion?",
+          "options": [
+            "Faster speed",
+            "Packet delay",
+            "Free upgrade",
+            "Auto restart"
+          ],
+          "answer": "Packet delay",
+          "explanation": "Too much traffic slows everything 🚦."
+        },
+        {
+          "id": 20,
+          "question": "Why use strong passwords on Wi-Fi?",
+          "options": [
+            "Security",
+            "Style",
+            "Tradition",
+            "Decoration"
+          ],
+          "answer": "Security",
+          "explanation": "Keep unwanted users out 🔐."
+        }
+      ]
+    },
+    {
+      "section": "Ultimate Networking Humor",
+      "type": "Comedy",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Why does the internet work perfectly until you complain?",
+          "options": [
+            "Fear",
+            "Coincidence",
+            "Glitch fix",
+            "Mystery"
+          ],
+          "answer": "Coincidence",
+          "explanation": "It fixes itself at the right moment 😄."
+        },
+        {
+          "id": 22,
+          "question": "What’s the boldest network promise?",
+          "options": [
+            "Unlimited speed",
+            "No downtime",
+            "Buffer-free streaming",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Marketing optimism is strong 📢."
+        },
+        {
+          "id": 23,
+          "question": "Why do updates start when Wi-Fi is slow?",
+          "options": [
+            "Timing",
+            "Background sync",
+            "Bad luck",
+            "Destiny"
+          ],
+          "answer": "Background sync",
+          "explanation": "Updates run when you least expect them ⬇️."
+        },
+        {
+          "id": 24,
+          "question": "What’s the fastest way to fix Wi-Fi temporarily?",
+          "options": [
+            "Restart router",
+            "Move closer",
+            "Turn airplane mode on/off",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Quick fixes save the day ⚡."
+        },
+        {
+          "id": 25,
+          "question": "Why do we blame the router first?",
+          "options": [
+            "Easy target",
+            "Past experience",
+            "Habit",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Poor router gets all the blame 😅."
+        }
+      ]
+    }
+  ]
+}

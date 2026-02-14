@@ -1,0 +1,336 @@
+{
+  "title": "Nature Quiz",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "Animals",
+      "type": "Basics",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which animal is known as the King of the Jungle?",
+          "options": [
+            "Tiger",
+            "Lion",
+            "Elephant",
+            "Leopard"
+          ],
+          "answer": "Lion",
+          "explanation": "The lion is often called the king 🦁."
+        },
+        {
+          "id": 2,
+          "question": "Which animal is the largest land mammal?",
+          "options": [
+            "Rhino",
+            "Elephant",
+            "Giraffe",
+            "Hippo"
+          ],
+          "answer": "Elephant",
+          "explanation": "Elephants are the biggest land mammals 🐘."
+        },
+        {
+          "id": 3,
+          "question": "What do pandas mainly eat?",
+          "options": [
+            "Fish",
+            "Grass",
+            "Bamboo",
+            "Leaves"
+          ],
+          "answer": "Bamboo",
+          "explanation": "Bamboo is a panda’s favorite food 🎋."
+        },
+        {
+          "id": 4,
+          "question": "Which bird is known for mimicking sounds?",
+          "options": [
+            "Parrot",
+            "Eagle",
+            "Sparrow",
+            "Owl"
+          ],
+          "answer": "Parrot",
+          "explanation": "Parrots can copy human speech 🦜."
+        },
+        {
+          "id": 5,
+          "question": "Which animal can change its color?",
+          "options": [
+            "Snake",
+            "Chameleon",
+            "Frog",
+            "Rabbit"
+          ],
+          "answer": "Chameleon",
+          "explanation": "Chameleons change color for camouflage 🦎."
+        }
+      ]
+    },
+    {
+      "section": "Plants",
+      "type": "Knowledge",
+      "questions": [
+        {
+          "id": 6,
+          "question": "What process do plants use to make food?",
+          "options": [
+            "Respiration",
+            "Photosynthesis",
+            "Digestion",
+            "Evaporation"
+          ],
+          "answer": "Photosynthesis",
+          "explanation": "Plants use sunlight to make food 🌿."
+        },
+        {
+          "id": 7,
+          "question": "Which part of the plant absorbs water?",
+          "options": [
+            "Leaf",
+            "Flower",
+            "Root",
+            "Stem"
+          ],
+          "answer": "Root",
+          "explanation": "Roots take in water from soil 🌱."
+        },
+        {
+          "id": 8,
+          "question": "Which tree is known for producing acorns?",
+          "options": [
+            "Pine",
+            "Oak",
+            "Maple",
+            "Palm"
+          ],
+          "answer": "Oak",
+          "explanation": "Oak trees produce acorns 🌳."
+        },
+        {
+          "id": 9,
+          "question": "What gas do plants release during photosynthesis?",
+          "options": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "answer": "Oxygen",
+          "explanation": "Plants release oxygen into the air 🌬️."
+        },
+        {
+          "id": 10,
+          "question": "Which plant is known as a desert plant?",
+          "options": [
+            "Rose",
+            "Cactus",
+            "Tulip",
+            "Fern"
+          ],
+          "answer": "Cactus",
+          "explanation": "Cactus stores water to survive deserts 🌵."
+        }
+      ]
+    },
+    {
+      "section": "Earth",
+      "type": "Basics",
+      "questions": [
+        {
+          "id": 11,
+          "question": "What is the outer layer of the Earth called?",
+          "options": [
+            "Core",
+            "Mantle",
+            "Crust",
+            "Shell"
+          ],
+          "answer": "Crust",
+          "explanation": "We live on the Earth's crust 🌍."
+        },
+        {
+          "id": 12,
+          "question": "What causes tides in the ocean?",
+          "options": [
+            "Wind",
+            "Moon",
+            "Sunlight",
+            "Rain"
+          ],
+          "answer": "Moon",
+          "explanation": "The Moon’s gravity causes tides 🌊."
+        },
+        {
+          "id": 13,
+          "question": "What is molten rock beneath Earth’s surface called?",
+          "options": [
+            "Lava",
+            "Magma",
+            "Ash",
+            "Stone"
+          ],
+          "answer": "Magma",
+          "explanation": "Magma is molten rock underground 🔥."
+        },
+        {
+          "id": 14,
+          "question": "Which natural disaster involves shaking ground?",
+          "options": [
+            "Flood",
+            "Hurricane",
+            "Earthquake",
+            "Tornado"
+          ],
+          "answer": "Earthquake",
+          "explanation": "Earthquakes cause the ground to shake 🌎."
+        },
+        {
+          "id": 15,
+          "question": "What covers most of Earth’s surface?",
+          "options": [
+            "Land",
+            "Forest",
+            "Water",
+            "Ice"
+          ],
+          "answer": "Water",
+          "explanation": "About 70% of Earth is covered by water 💧."
+        }
+      ]
+    },
+    {
+      "section": "Weather",
+      "type": "Trivia",
+      "questions": [
+        {
+          "id": 16,
+          "question": "What instrument measures temperature?",
+          "options": [
+            "Barometer",
+            "Thermometer",
+            "Compass",
+            "Hygrometer"
+          ],
+          "answer": "Thermometer",
+          "explanation": "A thermometer measures heat 🌡️."
+        },
+        {
+          "id": 17,
+          "question": "What do dark clouds usually bring?",
+          "options": [
+            "Sunshine",
+            "Rain",
+            "Snow only",
+            "Wind only"
+          ],
+          "answer": "Rain",
+          "explanation": "Dark clouds often mean rain ☔."
+        },
+        {
+          "id": 18,
+          "question": "What is frozen rain called?",
+          "options": [
+            "Mist",
+            "Hail",
+            "Fog",
+            "Dew"
+          ],
+          "answer": "Hail",
+          "explanation": "Hail falls as small ice balls ❄️."
+        },
+        {
+          "id": 19,
+          "question": "What scale measures earthquakes?",
+          "options": [
+            "Celsius",
+            "Richter",
+            "Beaufort",
+            "Kelvin"
+          ],
+          "answer": "Richter",
+          "explanation": "The Richter scale measures earthquake strength 📏."
+        },
+        {
+          "id": 20,
+          "question": "What is a large rotating storm called?",
+          "options": [
+            "Breeze",
+            "Cyclone",
+            "Cloud",
+            "Wave"
+          ],
+          "answer": "Cyclone",
+          "explanation": "Cyclones are powerful rotating storms 🌪️."
+        }
+      ]
+    },
+    {
+      "section": "Nature Humor",
+      "type": "Comedy",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Why does it rain right after you wash your car?",
+          "options": [
+            "Coincidence",
+            "Weather timing",
+            "Bad luck",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Nature loves drama 😅."
+        },
+        {
+          "id": 22,
+          "question": "When does the sun feel hottest?",
+          "options": [
+            "Morning",
+            "Evening",
+            "When AC breaks",
+            "Winter"
+          ],
+          "answer": "When AC breaks",
+          "explanation": "Perfect timing ☀️."
+        },
+        {
+          "id": 23,
+          "question": "Why do mosquitoes appear at night?",
+          "options": [
+            "Cool weather",
+            "Lights",
+            "Habit",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Night mode activated 🦟."
+        },
+        {
+          "id": 24,
+          "question": "What disappears fastest at a picnic?",
+          "options": [
+            "Food",
+            "Shade",
+            "Patience",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Outdoor fun struggles 😂."
+        },
+        {
+          "id": 25,
+          "question": "Why do plants look healthier after rain?",
+          "options": [
+            "Water boost",
+            "Clean leaves",
+            "Fresh air",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Rain refreshes everything 🌧️."
+        }
+      ]
+    }
+  ]
+}

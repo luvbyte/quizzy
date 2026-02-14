@@ -2,7 +2,7 @@
   <div @click.self="close" class="fixed z-60 inset-0 fscreen">
     <div class="w-[80%] h-full flex flex-col p-2 bg-base-100 shadow-xl">
       <pre
-        class="text-[0.6rem] flex flex-col p-4 flex justify-center items-center"
+        class="text-[0.6rem] font-bold flex flex-col p-4 flex justify-center items-center"
       >
    ___     _   _             _____   _____   __   __ 
   / " \ U |"|u| |   ___     |"_  /u |"_  /u  \ \ / / 
@@ -12,17 +12,25 @@ U \__\_\u<<\___/  U/| |\u   /____|  /____|     |_|
    \\// (__) )(.-,_|___|_,-._//<<,- _//<<,-.-,//|(_  
   (_(__)    (__)\_)-' '-(_/(__) (_/(__) (_/ \_) (__) </pre
       >
+
+      <h1 class="text-center opacity-60 text-xs">Version - {{ VERSION }}</h1>
+
       <!-- themes -->
       <div class="flex flex-col overflow-hidden text-xs">
-        <div class="divider m-0 uppercase">Theme - {{ currentTheme }}</div>
+        <h1 class="divider m-0 uppercase">Theme ☷ {{ currentTheme }}</h1>
         <div
-          class="rounded grid grid-rows-2 grid-flow-col space-x-1 space-y-1 py-2 overflow-x-auto scrollbar-hide"
+          class="rounded py-1 grid grid-rows-1 grid-flow-col space-x-1 overflow-x-auto scrollbar-hide"
         >
           <div
             v-for="theme in themes"
             :data-theme="theme"
             @click="setTheme(theme)"
-            class="w-12 h-12 shrink-0 rounded-full base-border flex items-center justify-center gap-1 p-1 active:border-base-content"
+            class="w-12 h-12 border-2 shrink-0 rounded-full flex items-center justify-center gap-1 p-1 active:border-base-content"
+            :class="
+              currentTheme === theme
+                ? 'border-base-content'
+                : 'border-base-content/20'
+            "
           >
             <div class="w-1 h-4 bg-primary rounded"></div>
             <div class="w-1 h-4 bg-secondary rounded"></div>
@@ -194,9 +202,14 @@ U \__\_\u<<\___/  U/| |\u   /____|  /____|     |_|
  （„• ֊ •„)♡
 ┏ • UU • - • - • - • - • - • - • ღ❦ღ┓</pre
       >
-      <div class="text-sm text-center my-4">
-        <span class="text-primary">Quizzy</span> ツ
-        <span class="text-secondary">kikku ᥫ᭡</span>
+      <div class="text-sm flex items-center gap-1 justify-center my-4">
+        <span class="badge badge-sm badge-primary font-semibold font-heading"
+          >Quizzy</span
+        >
+        ツ
+        <span class="badge badge-sm badge-secondary font-semibold font-heading"
+          >kikku ᥫ᭡</span
+        >
       </div>
       <pre class="flex justify-center items-center text-xs">
 ┗ღ❦ღ • - • - • - • - • - • -- •- •  ┛
@@ -207,17 +220,17 @@ U \__\_\u<<\___/  U/| |\u   /____|  /____|     |_|
 
 <script setup>
   import { ref, onMounted, onBeforeMount } from "vue";
-  import { getTheme, applyTheme } from "@/api/config";
+  import { getTheme, applyTheme, VERSION } from "@/api/config";
 
   defineProps(["close"]);
 
   // Daisyui themes
   const themes = [
     "valentine",
-    "dark",
-    "light",
-    "dim",
     "dracula",
+    "light",
+    "caramellatte",
+    "dim",
     "retro",
     "black",
     "cupcake",
@@ -225,6 +238,7 @@ U \__\_\u<<\___/  U/| |\u   /____|  /____|     |_|
     "emerald",
     "corporate",
     "synthwave",
+    "dark",
     "halloween",
     "garden",
     "forest",
@@ -243,7 +257,6 @@ U \__\_\u<<\___/  U/| |\u   /____|  /____|     |_|
     "winter",
     "nord",
     "sunset",
-    "caramellatte",
     "abyss",
     "silk"
   ];

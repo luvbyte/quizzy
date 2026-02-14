@@ -1,5 +1,47 @@
 [
   {
+    "name": "history-quiz",
+    "title": "History Quiz",
+    "sections": 5,
+    "level": "easy"
+  },
+  {
+    "name": "movie-quiz",
+    "title": "Movie Quiz",
+    "sections": 5,
+    "level": "easy"
+  },
+  {
+    "name": "nature-quiz",
+    "title": "Nature Quiz",
+    "sections": 5,
+    "level": "easy"
+  },
+  {
+    "name": "sports-quiz",
+    "title": "Sports Quiz",
+    "sections": 5,
+    "level": "easy"
+  },
+  {
+    "name": "space-quiz",
+    "title": "Space Quiz",
+    "sections": 5,
+    "level": "easy"
+  },
+  {
+    "name": "tech-quiz",
+    "title": "Tech Quiz",
+    "sections": 5,
+    "level": "easy"
+  },
+  {
+    "name": "everyday-networking-logic-quiz-2026",
+    "title": "Everyday Networking Logic Quiz 2026",
+    "sections": 5,
+    "level": "easy"
+  },
+  {
     "name": "common-sense-2026",
     "title": "Common Sense Quiz 2026",
     "sections": 5,
@@ -45,6 +87,12 @@
     "name": "rbi-office-att-2026",
     "title": "RBI Office Attendant 2026",
     "sections": 4,
+    "level": "easy"
+  },
+  {
+    "name": "everyday-logic-quiz-2026",
+    "title": "Everyday Logic Quiz 2026",
+    "sections": 5,
     "level": "easy"
   }
 ]

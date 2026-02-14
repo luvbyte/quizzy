@@ -1,4 +1,5 @@
 const DEFAULT_THEME = "valentine";
+export const VERSION = "0.0.1"
 
 export function getTheme() {
   return localStorage.getItem("escapy-theme") || DEFAULT_THEME;

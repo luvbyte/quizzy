@@ -1,0 +1,213 @@
+{
+  "title": "History Quiz",
+  "slug": "history-quiz",
+  "total_sections": 5,
+  "level": "easy",
+  "quizzes": [
+    {
+      "section": "Ancient World",
+      "type": "Basics",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which civilization built the pyramids?",
+          "options": ["Romans", "Greeks", "Egyptians", "Mayans"],
+          "answer": "Egyptians",
+          "explanation": "The ancient Egyptians built the great pyramids 🏺."
+        },
+        {
+          "id": 2,
+          "question": "Who was the first emperor of Rome?",
+          "options": ["Julius Caesar", "Augustus", "Nero", "Constantine"],
+          "answer": "Augustus",
+          "explanation": "Augustus became Rome’s first emperor 👑."
+        },
+        {
+          "id": 3,
+          "question": "Which ancient wonder was located in Babylon?",
+          "options": ["Colossus", "Hanging Gardens", "Lighthouse", "Temple of Artemis"],
+          "answer": "Hanging Gardens",
+          "explanation": "The Hanging Gardens were one of the Seven Wonders 🌿."
+        },
+        {
+          "id": 4,
+          "question": "Which empire was ruled by Alexander the Great?",
+          "options": ["Roman", "Greek/Macedonian", "Persian", "Ottoman"],
+          "answer": "Greek/Macedonian",
+          "explanation": "Alexander ruled the Macedonian Empire ⚔️."
+        },
+        {
+          "id": 5,
+          "question": "What writing system did ancient Egypt use?",
+          "options": ["Latin", "Hieroglyphics", "Cuneiform", "Greek"],
+          "answer": "Hieroglyphics",
+          "explanation": "Hieroglyphics were picture-based symbols ✍️."
+        }
+      ]
+    },
+    {
+      "section": "Middle Ages",
+      "type": "Knowledge",
+      "questions": [
+        {
+          "id": 6,
+          "question": "Who were warriors of medieval Japan?",
+          "options": ["Knights", "Samurai", "Vikings", "Spartans"],
+          "answer": "Samurai",
+          "explanation": "Samurai were skilled Japanese warriors 🗡️."
+        },
+        {
+          "id": 7,
+          "question": "What was the Black Death?",
+          "options": ["War", "Plague", "Revolution", "Flood"],
+          "answer": "Plague",
+          "explanation": "It was a deadly disease in the 14th century ☠️."
+        },
+        {
+          "id": 8,
+          "question": "What structure did knights live in?",
+          "options": ["Temple", "Castle", "Tower", "Village"],
+          "answer": "Castle",
+          "explanation": "Knights often lived in castles 🏰."
+        },
+        {
+          "id": 9,
+          "question": "Who signed the Magna Carta?",
+          "options": ["King John", "Henry VIII", "Charlemagne", "Richard I"],
+          "answer": "King John",
+          "explanation": "King John signed it in 1215 📜."
+        },
+        {
+          "id": 10,
+          "question": "Vikings came from which region?",
+          "options": ["Asia", "Africa", "Scandinavia", "America"],
+          "answer": "Scandinavia",
+          "explanation": "Vikings were from Northern Europe ⚓."
+        }
+      ]
+    },
+    {
+      "section": "Modern History",
+      "type": "Trivia",
+      "questions": [
+        {
+          "id": 11,
+          "question": "In which year did World War II end?",
+          "options": ["1942", "1945", "1939", "1950"],
+          "answer": "1945",
+          "explanation": "WWII ended in 1945 🌍."
+        },
+        {
+          "id": 12,
+          "question": "Who was the first President of the United States?",
+          "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "John Adams"],
+          "answer": "George Washington",
+          "explanation": "Washington became president in 1789 🇺🇸."
+        },
+        {
+          "id": 13,
+          "question": "The French Revolution began in which year?",
+          "options": ["1776", "1789", "1804", "1812"],
+          "answer": "1789",
+          "explanation": "It started in 1789 ⚔️."
+        },
+        {
+          "id": 14,
+          "question": "Who discovered America in 1492?",
+          "options": ["Vasco da Gama", "Christopher Columbus", "Magellan", "Cook"],
+          "answer": "Christopher Columbus",
+          "explanation": "Columbus sailed across the Atlantic 🚢."
+        },
+        {
+          "id": 15,
+          "question": "Which wall fell in 1989?",
+          "options": ["Great Wall", "Berlin Wall", "Hadrian’s Wall", "Wailing Wall"],
+          "answer": "Berlin Wall",
+          "explanation": "The Berlin Wall fell in 1989 🧱."
+        }
+      ]
+    },
+    {
+      "section": "World Leaders",
+      "type": "Reality",
+      "questions": [
+        {
+          "id": 16,
+          "question": "Who was known as the Iron Lady?",
+          "options": ["Queen Elizabeth II", "Margaret Thatcher", "Indira Gandhi", "Angela Merkel"],
+          "answer": "Margaret Thatcher",
+          "explanation": "She was the UK Prime Minister 🏛️."
+        },
+        {
+          "id": 17,
+          "question": "Who led India’s independence movement peacefully?",
+          "options": ["Nehru", "Gandhi", "Patel", "Bose"],
+          "answer": "Gandhi",
+          "explanation": "Mahatma Gandhi promoted non-violence ✌️."
+        },
+        {
+          "id": 18,
+          "question": "Who was the first man on the Moon?",
+          "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
+          "answer": "Neil Armstrong",
+          "explanation": "He stepped on the Moon in 1969 🌕."
+        },
+        {
+          "id": 19,
+          "question": "Who was the leader of Nazi Germany?",
+          "options": ["Hitler", "Stalin", "Mussolini", "Churchill"],
+          "answer": "Hitler",
+          "explanation": "Adolf Hitler led Germany during WWII ⚠️."
+        },
+        {
+          "id": 20,
+          "question": "Who was the first female Prime Minister of the UK?",
+          "options": ["Theresa May", "Margaret Thatcher", "Queen Victoria", "Elizabeth I"],
+          "answer": "Margaret Thatcher",
+          "explanation": "She served from 1979 to 1990 👩‍💼."
+        }
+      ]
+    },
+    {
+      "section": "History Humor",
+      "type": "Comedy",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Why do students fear history exams?",
+          "options": ["Too many dates", "Long answers", "Confusing wars", "All"],
+          "answer": "All",
+          "explanation": "History loves details 📚."
+        },
+        {
+          "id": 22,
+          "question": "What disappears fastest before a test?",
+          "options": ["Time", "Confidence", "Memory", "All"],
+          "answer": "All",
+          "explanation": "Brain says goodbye 😅."
+        },
+        {
+          "id": 23,
+          "question": "When do you finally remember the answer?",
+          "options": ["During test", "After test", "Never", "Before sleep"],
+          "answer": "After test",
+          "explanation": "Too late moment 😂."
+        },
+        {
+          "id": 24,
+          "question": "Why write long answers?",
+          "options": ["More marks", "Hope teacher is impressed", "Habit", "All"],
+          "answer": "All",
+          "explanation": "Extra lines = extra hope ✍️."
+        },
+        {
+          "id": 25,
+          "question": "Why say 'I studied that!'?",
+          "options": ["Shock", "Denial", "Confusion", "All"],
+          "answer": "All",
+          "explanation": "Classic exam reaction 😄."
+        }
+      ]
+    }
+  ]
+}

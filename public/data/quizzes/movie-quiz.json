@@ -1,0 +1,336 @@
+{
+  "title": "Movie Quiz",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "Movie Basics",
+      "type": "Basics",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Who directs a movie?",
+          "options": [
+            "Actor",
+            "Producer",
+            "Director",
+            "Writer"
+          ],
+          "answer": "Director",
+          "explanation": "The director leads the film’s creative vision 🎬."
+        },
+        {
+          "id": 2,
+          "question": "What is the written script of a movie called?",
+          "options": [
+            "Storybook",
+            "Screenplay",
+            "Novel",
+            "Draft"
+          ],
+          "answer": "Screenplay",
+          "explanation": "A screenplay contains dialogue and scenes 📄."
+        },
+        {
+          "id": 3,
+          "question": "What do actors memorize for a role?",
+          "options": [
+            "Lyrics",
+            "Dialogue",
+            "Music",
+            "Credits"
+          ],
+          "answer": "Dialogue",
+          "explanation": "Actors memorize their lines 🗣️."
+        },
+        {
+          "id": 4,
+          "question": "What is a movie preview called?",
+          "options": [
+            "Trailer",
+            "Clip",
+            "Teaser",
+            "Promo"
+          ],
+          "answer": "Trailer",
+          "explanation": "Trailers give a short look at the film 🎥."
+        },
+        {
+          "id": 5,
+          "question": "What place shows movies on a big screen?",
+          "options": [
+            "Library",
+            "Theater",
+            "Studio",
+            "Gallery"
+          ],
+          "answer": "Theater",
+          "explanation": "Movies are shown in cinemas or theaters 🍿."
+        }
+      ]
+    },
+    {
+      "section": "Genres",
+      "type": "Knowledge",
+      "questions": [
+        {
+          "id": 6,
+          "question": "Which genre focuses on humor?",
+          "options": [
+            "Horror",
+            "Comedy",
+            "Thriller",
+            "Drama"
+          ],
+          "answer": "Comedy",
+          "explanation": "Comedies are made to make you laugh 😄."
+        },
+        {
+          "id": 7,
+          "question": "Which genre includes superheroes?",
+          "options": [
+            "Sci-Fi",
+            "Action",
+            "Fantasy",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Superhero films mix action, sci-fi, and fantasy 🦸."
+        },
+        {
+          "id": 8,
+          "question": "Which genre aims to scare viewers?",
+          "options": [
+            "Romance",
+            "Horror",
+            "Adventure",
+            "Musical"
+          ],
+          "answer": "Horror",
+          "explanation": "Horror movies create fear 👻."
+        },
+        {
+          "id": 9,
+          "question": "Which genre focuses on love stories?",
+          "options": [
+            "Romance",
+            "Action",
+            "Mystery",
+            "War"
+          ],
+          "answer": "Romance",
+          "explanation": "Romance films center on relationships ❤️."
+        },
+        {
+          "id": 10,
+          "question": "Which genre includes space and future tech?",
+          "options": [
+            "Drama",
+            "Sci-Fi",
+            "Biography",
+            "Sport"
+          ],
+          "answer": "Sci-Fi",
+          "explanation": "Science fiction explores futuristic ideas 🚀."
+        }
+      ]
+    },
+    {
+      "section": "Famous Awards",
+      "type": "Trivia",
+      "questions": [
+        {
+          "id": 11,
+          "question": "What is the most famous movie award?",
+          "options": [
+            "Grammy",
+            "Oscar",
+            "Emmy",
+            "Tony"
+          ],
+          "answer": "Oscar",
+          "explanation": "The Academy Awards are known as the Oscars 🏆."
+        },
+        {
+          "id": 12,
+          "question": "Which award is given for best actor?",
+          "options": [
+            "Golden Globe",
+            "Oscar",
+            "Both",
+            "None"
+          ],
+          "answer": "Both",
+          "explanation": "Both awards honor acting performances 🎭."
+        },
+        {
+          "id": 13,
+          "question": "What color is the Oscar statue?",
+          "options": [
+            "Silver",
+            "Gold",
+            "Bronze",
+            "Black"
+          ],
+          "answer": "Gold",
+          "explanation": "The Oscar statue is gold-colored 🥇."
+        },
+        {
+          "id": 14,
+          "question": "Awards shows are usually held:",
+          "options": [
+            "Monthly",
+            "Yearly",
+            "Weekly",
+            "Daily"
+          ],
+          "answer": "Yearly",
+          "explanation": "Major film awards happen once a year 📅."
+        },
+        {
+          "id": 15,
+          "question": "Who votes for Oscar winners?",
+          "options": [
+            "Fans",
+            "Directors only",
+            "Academy members",
+            "Anyone"
+          ],
+          "answer": "Academy members",
+          "explanation": "Members of the Academy vote 🗳️."
+        }
+      ]
+    },
+    {
+      "section": "Behind the Scenes",
+      "type": "Reality",
+      "questions": [
+        {
+          "id": 16,
+          "question": "Who edits the final movie?",
+          "options": [
+            "Actor",
+            "Editor",
+            "Writer",
+            "Designer"
+          ],
+          "answer": "Editor",
+          "explanation": "Editors cut and arrange scenes ✂️."
+        },
+        {
+          "id": 17,
+          "question": "What creates explosions safely in films?",
+          "options": [
+            "CGI",
+            "Magic",
+            "Luck",
+            "Fan power"
+          ],
+          "answer": "CGI",
+          "explanation": "Computer-generated effects make scenes realistic 💻."
+        },
+        {
+          "id": 18,
+          "question": "What is background music in movies called?",
+          "options": [
+            "Album",
+            "Score",
+            "Playlist",
+            "Track"
+          ],
+          "answer": "Score",
+          "explanation": "A film score enhances emotion 🎼."
+        },
+        {
+          "id": 19,
+          "question": "What is a stunt double?",
+          "options": [
+            "Extra actor",
+            "Stand-in for risky scenes",
+            "Director helper",
+            "Producer"
+          ],
+          "answer": "Stand-in for risky scenes",
+          "explanation": "Stunt doubles perform dangerous scenes 🤸."
+        },
+        {
+          "id": 20,
+          "question": "Filming location is also called:",
+          "options": [
+            "Set",
+            "Stage",
+            "Studio",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Movies are filmed on sets, stages, or studios 🎥."
+        }
+      ]
+    },
+    {
+      "section": "Movie Humor",
+      "type": "Comedy",
+      "questions": [
+        {
+          "id": 21,
+          "question": "When does the popcorn finish?",
+          "options": [
+            "Before movie",
+            "During ads",
+            "Best scene",
+            "End credits"
+          ],
+          "answer": "Best scene",
+          "explanation": "Snacks vanish at the wrong time 🍿."
+        },
+        {
+          "id": 22,
+          "question": "Why do horror characters go alone?",
+          "options": [
+            "Bravery",
+            "Curiosity",
+            "Bad decisions",
+            "Script rule"
+          ],
+          "answer": "Bad decisions",
+          "explanation": "Classic horror logic 😅."
+        },
+        {
+          "id": 23,
+          "question": "What happens when you say 'this won’t be scary'?",
+          "options": [
+            "Nothing",
+            "Jump scare",
+            "Sleep",
+            "Laugh"
+          ],
+          "answer": "Jump scare",
+          "explanation": "Instant regret 👀."
+        },
+        {
+          "id": 24,
+          "question": "When does Wi-Fi buffer most?",
+          "options": [
+            "Intro",
+            "Climax",
+            "Credits",
+            "Trailer"
+          ],
+          "answer": "Climax",
+          "explanation": "Perfect dramatic timing 📡."
+        },
+        {
+          "id": 25,
+          "question": "Why say 'one more episode'?",
+          "options": [
+            "Cliffhanger",
+            "Addiction",
+            "Curiosity",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Binge mode activated 📺."
+        }
+      ]
+    }
+  ]
+}

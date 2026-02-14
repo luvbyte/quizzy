@@ -1,0 +1,336 @@
+{
+  "title": "Everyday Logic Quiz 2026",
+  "total_sections": 5,
+  "quizzes": [
+    {
+      "section": "Home Realities",
+      "type": "Reasoning",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why does your phone battery drop faster when you need it most?",
+          "options": [
+            "Coincidence",
+            "Apps",
+            "Universe timing",
+            "Gravity"
+          ],
+          "answer": "Universe timing",
+          "explanation": "The universe loves drama 🔋."
+        },
+        {
+          "id": 2,
+          "question": "What happens right after you clean your room?",
+          "options": [
+            "Peace",
+            "Nap time",
+            "It gets messy again",
+            "Guests arrive"
+          ],
+          "answer": "Guests arrive",
+          "explanation": "They sense it somehow 😅."
+        },
+        {
+          "id": 3,
+          "question": "Why do socks disappear in the laundry?",
+          "options": [
+            "Black hole",
+            "Washer magic",
+            "Parallel world",
+            "Folding error"
+          ],
+          "answer": "Parallel world",
+          "explanation": "Somewhere there’s a sock kingdom 🧦."
+        },
+        {
+          "id": 4,
+          "question": "What’s the strongest force at home?",
+          "options": [
+            "Gravity",
+            "Wi-Fi",
+            "Mom calling your full name",
+            "Hunger"
+          ],
+          "answer": "Mom calling your full name",
+          "explanation": "Immediate response required 😳."
+        },
+        {
+          "id": 5,
+          "question": "Why does the doorbell ring when you're in the shower?",
+          "options": [
+            "Timing",
+            "Bad luck",
+            "Delivery algorithm",
+            "Destiny"
+          ],
+          "answer": "Destiny",
+          "explanation": "It waits for shampoo phase 🚿."
+        }
+      ]
+    },
+    {
+      "section": "Work & Study Truths",
+      "type": "Situational",
+      "questions": [
+        {
+          "id": 6,
+          "question": "When do assignments feel easiest?",
+          "options": [
+            "After submission",
+            "Last minute",
+            "Never",
+            "In dreams"
+          ],
+          "answer": "After submission",
+          "explanation": "Brain unlocks too late 📚."
+        },
+        {
+          "id": 7,
+          "question": "What increases when exams get closer?",
+          "options": [
+            "Focus",
+            "Stress",
+            "Sleep",
+            "Confidence"
+          ],
+          "answer": "Stress",
+          "explanation": "Panic mode activated 😬."
+        },
+        {
+          "id": 8,
+          "question": "Why do meetings start with 'This won’t take long'?",
+          "options": [
+            "Optimism",
+            "Lie",
+            "Tradition",
+            "Habit"
+          ],
+          "answer": "Tradition",
+          "explanation": "Ancient corporate ritual 🏢."
+        },
+        {
+          "id": 9,
+          "question": "What happens when you say 'I’m almost done'?",
+          "options": [
+            "Finish quickly",
+            "Find new errors",
+            "Power cut",
+            "Snack break"
+          ],
+          "answer": "Find new errors",
+          "explanation": "The universe checks your confidence 😅."
+        },
+        {
+          "id": 10,
+          "question": "What’s the hardest part of Monday?",
+          "options": [
+            "Morning",
+            "Alarm",
+            "Work",
+            "All of it"
+          ],
+          "answer": "All of it",
+          "explanation": "Monday energy is special 💤."
+        }
+      ]
+    },
+    {
+      "section": "Human Habits",
+      "type": "Relatable Logic",
+      "questions": [
+        {
+          "id": 11,
+          "question": "Why do we google symptoms?",
+          "options": [
+            "Curiosity",
+            "Fear",
+            "Boredom",
+            "Drama"
+          ],
+          "answer": "Fear",
+          "explanation": "Headache = rare disease 😵."
+        },
+        {
+          "id": 12,
+          "question": "What happens when you decide to sleep early?",
+          "options": [
+            "You sleep",
+            "You scroll",
+            "You think deeply",
+            "All of these"
+          ],
+          "answer": "All of these",
+          "explanation": "Bed = philosophy zone 🛏️."
+        },
+        {
+          "id": 13,
+          "question": "Why do we rehearse arguments in the shower?",
+          "options": [
+            "Strategy",
+            "Entertainment",
+            "Delayed comeback",
+            "Confidence boost"
+          ],
+          "answer": "Delayed comeback",
+          "explanation": "Best replies come 2 hours late 🚿."
+        },
+        {
+          "id": 14,
+          "question": "What does 'just one video' become?",
+          "options": [
+            "10 minutes",
+            "1 hour",
+            "3 hours",
+            "Sunrise"
+          ],
+          "answer": "Sunrise",
+          "explanation": "Autoplay wins 📱."
+        },
+        {
+          "id": 15,
+          "question": "Why do we check our phone with no notifications?",
+          "options": [
+            "Habit",
+            "Hope",
+            "Reflex",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Phantom vibration syndrome 📳."
+        }
+      ]
+    },
+    {
+      "section": "Food Moments",
+      "type": "Reality",
+      "questions": [
+        {
+          "id": 16,
+          "question": "Why does pizza taste better the next day?",
+          "options": [
+            "Magic",
+            "Cold effect",
+            "Extra hunger",
+            "Science-ish"
+          ],
+          "answer": "Science-ish",
+          "explanation": "Flavors settle like wise elders 🍕."
+        },
+        {
+          "id": 17,
+          "question": "What happens when you say you're on a diet?",
+          "options": [
+            "Support",
+            "Temptation appears",
+            "Motivation",
+            "Gym call"
+          ],
+          "answer": "Temptation appears",
+          "explanation": "Suddenly, free cake everywhere 🎂."
+        },
+        {
+          "id": 18,
+          "question": "Why does water taste elite at 3 AM?",
+          "options": [
+            "Silence",
+            "Thirst",
+            "Luxury vibes",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Midnight hydration hits different 💧."
+        },
+        {
+          "id": 19,
+          "question": "What disappears fastest at parties?",
+          "options": [
+            "Music",
+            "Snacks",
+            "Chairs",
+            "Energy"
+          ],
+          "answer": "Snacks",
+          "explanation": "Plates are never safe 🥨."
+        },
+        {
+          "id": 20,
+          "question": "Why do we open the fridge repeatedly?",
+          "options": [
+            "Memory loss",
+            "Hope",
+            "Boredom",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Maybe something new spawned 🧃."
+        }
+      ]
+    },
+    {
+      "section": "Ultimate Funny Logic",
+      "type": "Comedy",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Why does time move faster on weekends?",
+          "options": [
+            "Physics",
+            "Joy effect",
+            "Clock betrayal",
+            "Mystery"
+          ],
+          "answer": "Clock betrayal",
+          "explanation": "Weekends are short films 🎬."
+        },
+        {
+          "id": 22,
+          "question": "What’s the boldest promise?",
+          "options": [
+            "I’ll start tomorrow",
+            "I won’t procrastinate",
+            "I’ll save money",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Optimism is powerful 😌."
+        },
+        {
+          "id": 23,
+          "question": "Why do we laugh at serious moments?",
+          "options": [
+            "Nervous system",
+            "Drama",
+            "Habit",
+            "Glitch"
+          ],
+          "answer": "Nervous system",
+          "explanation": "Brain buffering 😅."
+        },
+        {
+          "id": 24,
+          "question": "What’s the fastest way to lose motivation?",
+          "options": [
+            "Comparison",
+            "Scrolling",
+            "Comfort",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Productivity left the chat 📉."
+        },
+        {
+          "id": 25,
+          "question": "Why do we say 'last piece' before eating three more?",
+          "options": [
+            "Math error",
+            "Hope",
+            "Denial",
+            "All"
+          ],
+          "answer": "All",
+          "explanation": "Self-control loading… failed 🍪."
+        }
+      ]
+    }
+  ]
+}
